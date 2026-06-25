@@ -16,9 +16,11 @@ This project analyzes food price fluctuations to detect inflationary anomalies a
 - **Environment:** Jupyter Notebook
 
 ## 📊 Visualizations
-*Check out the [Analysis Notebook](./Analisis_Volatilitas.ipynb) for the full walkthrough.*
+*Check out the [Analysis Notebook](./food_price_volality_analysis_jakarta_jabar.ipynb) for the full walkthrough.*
 
-![Beras Tren](./images/Visualisasi_Tren_MA_Beras_Jakarta.png)
+![Tren Beras Jakarta](./images/Visualisasi_Tren_MA_Beras_Jakarta.png)
+![Tren Beras Jabar](./images/Visualisasi_Tren_MA_Beras_Jabar.png)
+![Tren Harga Mur](./images/Visualisasi_Tren_MA_Beras_Jakarta.png)
 
 ## 📝 Data Source
 Data obtained from [Insert Agency Name, e.g., BPS/Ministry of Trade] - 2026 Price Statistics.

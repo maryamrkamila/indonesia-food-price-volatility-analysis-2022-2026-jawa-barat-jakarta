@@ -1,0 +1,1001 @@
+Province_Name,Commodity_Name,Bulan,Harga_Bulan_Ini,Harga_Bulan_Lalu,Pertumbuhan_MoM_%,Status_Volatilitas,MA_3_Bulan
+DKI Jakarta,Bawang Merah,2022-01,31973.21,,,Data Awal (Baseline),31973.21
+DKI Jakarta,Bawang Merah,2022-02,40298.0,31973.21,26.04,Lonjakan Ekstrem (Inflasi Tinggi),36135.6
+DKI Jakarta,Bawang Merah,2022-03,38867.86,40298.0,-3.55,Fluktuasi Normal,37046.36
+DKI Jakarta,Bawang Merah,2022-04,39465.22,38867.86,1.54,Fluktuasi Normal,39543.69
+DKI Jakarta,Bawang Merah,2022-05,48877.5,39465.22,23.85,Lonjakan Ekstrem (Inflasi Tinggi),42403.53
+DKI Jakarta,Bawang Merah,2022-06,59430.77,48877.5,21.59,Lonjakan Ekstrem (Inflasi Tinggi),49257.83
+DKI Jakarta,Bawang Merah,2022-07,69005.56,59430.77,16.11,Lonjakan Ekstrem (Inflasi Tinggi),59104.61
+DKI Jakarta,Bawang Merah,2022-08,41976.79,69005.56,-39.17,Penurunan Signifikan (Deflasi),56804.37
+DKI Jakarta,Bawang Merah,2022-09,39667.31,41976.79,-5.5,Fluktuasi Normal,50216.55
+DKI Jakarta,Bawang Merah,2022-10,38817.24,39667.31,-2.14,Fluktuasi Normal,40153.78
+DKI Jakarta,Bawang Merah,2022-11,38266.67,38817.24,-1.42,Fluktuasi Normal,38917.07
+DKI Jakarta,Bawang Merah,2022-12,36841.38,38266.67,-3.72,Fluktuasi Normal,37975.1
+DKI Jakarta,Bawang Merah,2023-01,45720.97,36841.38,24.1,Lonjakan Ekstrem (Inflasi Tinggi),40276.34
+DKI Jakarta,Bawang Merah,2023-02,46550.0,45720.97,1.81,Fluktuasi Normal,43037.45
+DKI Jakarta,Bawang Merah,2023-03,42023.21,46550.0,-9.72,Fluktuasi Normal,44764.73
+DKI Jakarta,Bawang Merah,2023-04,44879.63,42023.21,6.8,Fluktuasi Normal,44484.28
+DKI Jakarta,Bawang Merah,2023-05,53775.0,44879.63,19.82,Lonjakan Ekstrem (Inflasi Tinggi),46892.61
+DKI Jakarta,Bawang Merah,2023-06,48364.0,53775.0,-10.06,Penurunan Signifikan (Deflasi),49006.21
+DKI Jakarta,Bawang Merah,2023-07,39903.57,48364.0,-17.49,Penurunan Signifikan (Deflasi),47347.52
+DKI Jakarta,Bawang Merah,2023-08,35125.93,39903.57,-11.97,Penurunan Signifikan (Deflasi),41131.17
+DKI Jakarta,Bawang Merah,2023-09,34363.46,35125.93,-2.17,Fluktuasi Normal,36464.32
+DKI Jakarta,Bawang Merah,2023-10,32154.84,34363.46,-6.43,Fluktuasi Normal,33881.41
+DKI Jakarta,Bawang Merah,2023-11,36571.15,32154.84,13.73,Lonjakan Ekstrem (Inflasi Tinggi),34363.15
+DKI Jakarta,Bawang Merah,2023-12,40175.86,36571.15,9.86,Fluktuasi Normal,36300.62
+DKI Jakarta,Bawang Merah,2024-01,40333.33,40175.86,0.39,Fluktuasi Normal,39026.78
+DKI Jakarta,Bawang Merah,2024-02,39330.0,40333.33,-2.49,Fluktuasi Normal,39946.4
+DKI Jakarta,Bawang Merah,2024-03,39037.1,39330.0,-0.74,Fluktuasi Normal,39566.81
+DKI Jakarta,Bawang Merah,2024-04,58621.15,39037.1,50.17,Lonjakan Ekstrem (Inflasi Tinggi),45662.75
+DKI Jakarta,Bawang Merah,2024-05,59087.04,58621.15,0.79,Fluktuasi Normal,52248.43
+DKI Jakarta,Bawang Merah,2024-06,48516.67,59087.04,-17.89,Penurunan Signifikan (Deflasi),55408.29
+DKI Jakarta,Bawang Merah,2024-07,37385.0,48516.67,-22.94,Penurunan Signifikan (Deflasi),48329.57
+DKI Jakarta,Bawang Merah,2024-08,31843.1,37385.0,-14.82,Penurunan Signifikan (Deflasi),39248.26
+DKI Jakarta,Bawang Merah,2024-09,31848.33,31843.1,0.02,Fluktuasi Normal,33692.14
+DKI Jakarta,Bawang Merah,2024-10,33232.26,31848.33,4.35,Fluktuasi Normal,32307.9
+DKI Jakarta,Bawang Merah,2024-11,45468.33,33232.26,36.82,Lonjakan Ekstrem (Inflasi Tinggi),36849.64
+DKI Jakarta,Bawang Merah,2024-12,45219.35,45468.33,-0.55,Fluktuasi Normal,41306.65
+DKI Jakarta,Bawang Merah,2025-01,42009.62,45219.35,-7.1,Fluktuasi Normal,44232.43
+DKI Jakarta,Bawang Merah,2025-02,37042.59,42009.62,-11.82,Penurunan Signifikan (Deflasi),41423.85
+DKI Jakarta,Bawang Merah,2025-03,56905.0,37042.59,53.62,Lonjakan Ekstrem (Inflasi Tinggi),45319.07
+DKI Jakarta,Bawang Merah,2025-04,61725.86,56905.0,8.47,Fluktuasi Normal,51891.15
+DKI Jakarta,Bawang Merah,2025-05,48035.71,61725.86,-22.18,Penurunan Signifikan (Deflasi),55555.52
+DKI Jakarta,Bawang Merah,2025-06,51065.0,48035.71,6.31,Fluktuasi Normal,53608.86
+DKI Jakarta,Bawang Merah,2025-07,55653.23,51065.0,8.99,Fluktuasi Normal,51584.65
+DKI Jakarta,Bawang Merah,2025-08,54725.81,55653.23,-1.67,Fluktuasi Normal,53814.68
+DKI Jakarta,Bawang Merah,2025-09,42085.0,54725.81,-23.1,Penurunan Signifikan (Deflasi),50821.35
+DKI Jakarta,Bawang Merah,2025-10,45622.22,42085.0,8.4,Fluktuasi Normal,47477.68
+DKI Jakarta,Bawang Merah,2025-11,45423.33,45622.22,-0.44,Fluktuasi Normal,44376.85
+DKI Jakarta,Bawang Merah,2025-12,51327.59,45423.33,13.0,Lonjakan Ekstrem (Inflasi Tinggi),47457.71
+DKI Jakarta,Bawang Merah,2026-01,45760.34,51327.59,-10.85,Penurunan Signifikan (Deflasi),47503.75
+DKI Jakarta,Bawang Merah,2026-02,48295.83,45760.34,5.54,Fluktuasi Normal,48461.25
+DKI Jakarta,Bawang Putih,2022-01,34535.71,,,Data Awal (Baseline),34535.71
+DKI Jakarta,Bawang Putih,2022-02,35000.0,34535.71,1.34,Fluktuasi Normal,34767.85
+DKI Jakarta,Bawang Putih,2022-03,36314.29,35000.0,3.76,Fluktuasi Normal,35283.33
+DKI Jakarta,Bawang Putih,2022-04,40195.65,36314.29,10.69,Lonjakan Ekstrem (Inflasi Tinggi),37169.98
+DKI Jakarta,Bawang Putih,2022-05,41155.0,40195.65,2.39,Fluktuasi Normal,39221.65
+DKI Jakarta,Bawang Putih,2022-06,40040.38,41155.0,-2.71,Fluktuasi Normal,40463.68
+DKI Jakarta,Bawang Putih,2022-07,37650.0,40040.38,-5.97,Fluktuasi Normal,39615.13
+DKI Jakarta,Bawang Putih,2022-08,37241.07,37650.0,-1.09,Fluktuasi Normal,38310.48
+DKI Jakarta,Bawang Putih,2022-09,37538.46,37241.07,0.8,Fluktuasi Normal,37476.51
+DKI Jakarta,Bawang Putih,2022-10,35541.38,37538.46,-5.32,Fluktuasi Normal,36773.64
+DKI Jakarta,Bawang Putih,2022-11,34835.0,35541.38,-1.99,Fluktuasi Normal,35971.61
+DKI Jakarta,Bawang Putih,2022-12,34431.03,34835.0,-1.16,Fluktuasi Normal,34935.8
+DKI Jakarta,Bawang Putih,2023-01,35648.39,34431.03,3.54,Fluktuasi Normal,34971.47
+DKI Jakarta,Bawang Putih,2023-02,36208.33,35648.39,1.57,Fluktuasi Normal,35429.25
+DKI Jakarta,Bawang Putih,2023-03,39541.07,36208.33,9.2,Fluktuasi Normal,37132.6
+DKI Jakarta,Bawang Putih,2023-04,40342.59,39541.07,2.03,Fluktuasi Normal,38697.33
+DKI Jakarta,Bawang Putih,2023-05,44078.57,40342.59,9.26,Fluktuasi Normal,41320.74
+DKI Jakarta,Bawang Putih,2023-06,43298.0,44078.57,-1.77,Fluktuasi Normal,42573.05
+DKI Jakarta,Bawang Putih,2023-07,45892.86,43298.0,5.99,Fluktuasi Normal,44423.14
+DKI Jakarta,Bawang Putih,2023-08,46796.3,45892.86,1.97,Fluktuasi Normal,45329.05
+DKI Jakarta,Bawang Putih,2023-09,44961.54,46796.3,-3.92,Fluktuasi Normal,45883.57
+DKI Jakarta,Bawang Putih,2023-10,45054.84,44961.54,0.21,Fluktuasi Normal,45604.23
+DKI Jakarta,Bawang Putih,2023-11,44625.0,45054.84,-0.95,Fluktuasi Normal,44880.46
+DKI Jakarta,Bawang Putih,2023-12,45474.14,44625.0,1.9,Fluktuasi Normal,45051.33
+DKI Jakarta,Bawang Putih,2024-01,46388.33,45474.14,2.01,Fluktuasi Normal,45495.82
+DKI Jakarta,Bawang Putih,2024-02,46690.0,46388.33,0.65,Fluktuasi Normal,46184.16
+DKI Jakarta,Bawang Putih,2024-03,47422.58,46690.0,1.57,Fluktuasi Normal,46833.64
+DKI Jakarta,Bawang Putih,2024-04,52811.54,47422.58,11.36,Lonjakan Ekstrem (Inflasi Tinggi),48974.71
+DKI Jakarta,Bawang Putih,2024-05,57979.63,52811.54,9.79,Fluktuasi Normal,52737.92
+DKI Jakarta,Bawang Putih,2024-06,51246.67,57979.63,-11.61,Penurunan Signifikan (Deflasi),54012.61
+DKI Jakarta,Bawang Putih,2024-07,47778.33,51246.67,-6.77,Fluktuasi Normal,52334.88
+DKI Jakarta,Bawang Putih,2024-08,48248.28,47778.33,0.98,Fluktuasi Normal,49091.09
+DKI Jakarta,Bawang Putih,2024-09,48123.33,48248.28,-0.26,Fluktuasi Normal,48049.98
+DKI Jakarta,Bawang Putih,2024-10,48995.16,48123.33,1.81,Fluktuasi Normal,48455.59
+DKI Jakarta,Bawang Putih,2024-11,48918.33,48995.16,-0.16,Fluktuasi Normal,48678.94
+DKI Jakarta,Bawang Putih,2024-12,51574.19,48918.33,5.43,Fluktuasi Normal,49829.23
+DKI Jakarta,Bawang Putih,2025-01,50455.77,51574.19,-2.17,Fluktuasi Normal,50316.1
+DKI Jakarta,Bawang Putih,2025-02,50407.41,50455.77,-0.1,Fluktuasi Normal,50812.46
+DKI Jakarta,Bawang Putih,2025-03,53728.33,50407.41,6.59,Fluktuasi Normal,51530.5
+DKI Jakarta,Bawang Putih,2025-04,60110.34,53728.33,11.88,Lonjakan Ekstrem (Inflasi Tinggi),54748.69
+DKI Jakarta,Bawang Putih,2025-05,56289.29,60110.34,-6.36,Fluktuasi Normal,56709.32
+DKI Jakarta,Bawang Putih,2025-06,52143.33,56289.29,-7.37,Fluktuasi Normal,56180.99
+DKI Jakarta,Bawang Putih,2025-07,49785.48,52143.33,-4.52,Fluktuasi Normal,52739.37
+DKI Jakarta,Bawang Putih,2025-08,46479.03,49785.48,-6.64,Fluktuasi Normal,49469.28
+DKI Jakarta,Bawang Putih,2025-09,44890.0,46479.03,-3.42,Fluktuasi Normal,47051.5
+DKI Jakarta,Bawang Putih,2025-10,43642.59,44890.0,-2.78,Fluktuasi Normal,45003.87
+DKI Jakarta,Bawang Putih,2025-11,43265.0,43642.59,-0.87,Fluktuasi Normal,43932.53
+DKI Jakarta,Bawang Putih,2025-12,44237.93,43265.0,2.25,Fluktuasi Normal,43715.17
+DKI Jakarta,Bawang Putih,2026-01,44450.0,44237.93,0.48,Fluktuasi Normal,43984.31
+DKI Jakarta,Bawang Putih,2026-02,43616.67,44450.0,-1.87,Fluktuasi Normal,44101.53
+DKI Jakarta,Beras,2022-01,13521.43,,,Data Awal (Baseline),13521.43
+DKI Jakarta,Beras,2022-02,13476.0,13521.43,-0.34,Fluktuasi Normal,13498.72
+DKI Jakarta,Beras,2022-03,13450.0,13476.0,-0.19,Fluktuasi Normal,13482.48
+DKI Jakarta,Beras,2022-04,13450.0,13450.0,0.0,Fluktuasi Normal,13458.67
+DKI Jakarta,Beras,2022-05,13410.0,13450.0,-0.3,Fluktuasi Normal,13436.67
+DKI Jakarta,Beras,2022-06,13388.46,13410.0,-0.16,Fluktuasi Normal,13416.15
+DKI Jakarta,Beras,2022-07,13438.89,13388.46,0.38,Fluktuasi Normal,13412.45
+DKI Jakarta,Beras,2022-08,13480.36,13438.89,0.31,Fluktuasi Normal,13435.9
+DKI Jakarta,Beras,2022-09,13607.69,13480.36,0.94,Fluktuasi Normal,13508.98
+DKI Jakarta,Beras,2022-10,13750.0,13607.69,1.05,Fluktuasi Normal,13612.68
+DKI Jakarta,Beras,2022-11,13816.67,13750.0,0.48,Fluktuasi Normal,13724.79
+DKI Jakarta,Beras,2022-12,13991.38,13816.67,1.26,Fluktuasi Normal,13852.68
+DKI Jakarta,Beras,2023-01,14153.23,13991.38,1.16,Fluktuasi Normal,13987.09
+DKI Jakarta,Beras,2023-02,14435.42,14153.23,1.99,Fluktuasi Normal,14193.34
+DKI Jakarta,Beras,2023-03,14432.14,14435.42,-0.02,Fluktuasi Normal,14340.26
+DKI Jakarta,Beras,2023-04,14442.59,14432.14,0.07,Fluktuasi Normal,14436.72
+DKI Jakarta,Beras,2023-05,14425.0,14442.59,-0.12,Fluktuasi Normal,14433.24
+DKI Jakarta,Beras,2023-06,14500.0,14425.0,0.52,Fluktuasi Normal,14455.86
+DKI Jakarta,Beras,2023-07,14466.07,14500.0,-0.23,Fluktuasi Normal,14463.69
+DKI Jakarta,Beras,2023-08,14681.48,14466.07,1.49,Fluktuasi Normal,14549.18
+DKI Jakarta,Beras,2023-09,15155.77,14681.48,3.23,Fluktuasi Normal,14767.77
+DKI Jakarta,Beras,2023-10,15200.0,15155.77,0.29,Fluktuasi Normal,15012.42
+DKI Jakarta,Beras,2023-11,15200.0,15200.0,0.0,Fluktuasi Normal,15185.26
+DKI Jakarta,Beras,2023-12,15312.07,15200.0,0.74,Fluktuasi Normal,15237.36
+DKI Jakarta,Beras,2024-01,15450.0,15312.07,0.9,Fluktuasi Normal,15320.69
+DKI Jakarta,Beras,2024-02,15980.0,15450.0,3.43,Fluktuasi Normal,15580.69
+DKI Jakarta,Beras,2024-03,16150.0,15980.0,1.06,Fluktuasi Normal,15860.0
+DKI Jakarta,Beras,2024-04,15725.0,16150.0,-2.63,Fluktuasi Normal,15951.67
+DKI Jakarta,Beras,2024-05,15475.93,15725.0,-1.58,Fluktuasi Normal,15783.64
+DKI Jakarta,Beras,2024-06,15460.0,15475.93,-0.1,Fluktuasi Normal,15553.64
+DKI Jakarta,Beras,2024-07,15640.0,15460.0,1.16,Fluktuasi Normal,15525.31
+DKI Jakarta,Beras,2024-08,15629.31,15640.0,-0.07,Fluktuasi Normal,15576.44
+DKI Jakarta,Beras,2024-09,15571.67,15629.31,-0.37,Fluktuasi Normal,15613.66
+DKI Jakarta,Beras,2024-10,15550.0,15571.67,-0.14,Fluktuasi Normal,15583.66
+DKI Jakarta,Beras,2024-11,15463.33,15550.0,-0.56,Fluktuasi Normal,15528.33
+DKI Jakarta,Beras,2024-12,15480.65,15463.33,0.11,Fluktuasi Normal,15497.99
+DKI Jakarta,Beras,2025-01,15671.15,15480.65,1.23,Fluktuasi Normal,15538.38
+DKI Jakarta,Beras,2025-02,15703.7,15671.15,0.21,Fluktuasi Normal,15618.5
+DKI Jakarta,Beras,2025-03,15696.67,15703.7,-0.04,Fluktuasi Normal,15690.51
+DKI Jakarta,Beras,2025-04,15694.83,15696.67,-0.01,Fluktuasi Normal,15698.4
+DKI Jakarta,Beras,2025-05,15667.86,15694.83,-0.17,Fluktuasi Normal,15686.45
+DKI Jakarta,Beras,2025-06,15941.67,15667.86,1.75,Fluktuasi Normal,15768.12
+DKI Jakarta,Beras,2025-07,16158.06,15941.67,1.36,Fluktuasi Normal,15922.53
+DKI Jakarta,Beras,2025-08,16230.65,16158.06,0.45,Fluktuasi Normal,16110.13
+DKI Jakarta,Beras,2025-09,16315.0,16230.65,0.52,Fluktuasi Normal,16234.57
+DKI Jakarta,Beras,2025-10,16309.26,16315.0,-0.04,Fluktuasi Normal,16284.97
+DKI Jakarta,Beras,2025-11,16300.0,16309.26,-0.06,Fluktuasi Normal,16308.09
+DKI Jakarta,Beras,2025-12,16300.0,16300.0,0.0,Fluktuasi Normal,16303.09
+DKI Jakarta,Beras,2026-01,16410.34,16300.0,0.68,Fluktuasi Normal,16336.78
+DKI Jakarta,Beras,2026-02,16516.67,16410.34,0.65,Fluktuasi Normal,16409.0
+DKI Jakarta,Cabai Merah,2022-01,40653.57,,,Data Awal (Baseline),40653.57
+DKI Jakarta,Cabai Merah,2022-02,42736.0,40653.57,5.12,Fluktuasi Normal,41694.79
+DKI Jakarta,Cabai Merah,2022-03,54925.0,42736.0,28.52,Lonjakan Ekstrem (Inflasi Tinggi),46104.86
+DKI Jakarta,Cabai Merah,2022-04,51547.83,54925.0,-6.15,Fluktuasi Normal,49736.28
+DKI Jakarta,Cabai Merah,2022-05,55142.5,51547.83,6.97,Fluktuasi Normal,53871.78
+DKI Jakarta,Cabai Merah,2022-06,82240.38,55142.5,49.14,Lonjakan Ekstrem (Inflasi Tinggi),62976.9
+DKI Jakarta,Cabai Merah,2022-07,104070.37,82240.38,26.54,Lonjakan Ekstrem (Inflasi Tinggi),80484.42
+DKI Jakarta,Cabai Merah,2022-08,79478.57,104070.37,-23.63,Penurunan Signifikan (Deflasi),88596.44
+DKI Jakarta,Cabai Merah,2022-09,76957.69,79478.57,-3.17,Fluktuasi Normal,86835.54
+DKI Jakarta,Cabai Merah,2022-10,60122.41,76957.69,-21.88,Penurunan Signifikan (Deflasi),72186.22
+DKI Jakarta,Cabai Merah,2022-11,46706.67,60122.41,-22.31,Penurunan Signifikan (Deflasi),61262.26
+DKI Jakarta,Cabai Merah,2022-12,44400.0,46706.67,-4.94,Fluktuasi Normal,50409.69
+DKI Jakarta,Cabai Merah,2023-01,50553.23,44400.0,13.86,Lonjakan Ekstrem (Inflasi Tinggi),47219.97
+DKI Jakarta,Cabai Merah,2023-02,51918.75,50553.23,2.7,Fluktuasi Normal,48957.33
+DKI Jakarta,Cabai Merah,2023-03,49826.79,51918.75,-4.03,Fluktuasi Normal,50766.26
+DKI Jakarta,Cabai Merah,2023-04,48779.63,49826.79,-2.1,Fluktuasi Normal,50175.06
+DKI Jakarta,Cabai Merah,2023-05,47053.57,48779.63,-3.54,Fluktuasi Normal,48553.33
+DKI Jakarta,Cabai Merah,2023-06,45546.0,47053.57,-3.2,Fluktuasi Normal,47126.4
+DKI Jakarta,Cabai Merah,2023-07,46798.21,45546.0,2.75,Fluktuasi Normal,46465.93
+DKI Jakarta,Cabai Merah,2023-08,48198.15,46798.21,2.99,Fluktuasi Normal,46847.45
+DKI Jakarta,Cabai Merah,2023-09,48761.54,48198.15,1.17,Fluktuasi Normal,47919.3
+DKI Jakarta,Cabai Merah,2023-10,53725.81,48761.54,10.18,Lonjakan Ekstrem (Inflasi Tinggi),50228.5
+DKI Jakarta,Cabai Merah,2023-11,79309.62,53725.81,47.62,Lonjakan Ekstrem (Inflasi Tinggi),60598.99
+DKI Jakarta,Cabai Merah,2023-12,95163.79,79309.62,19.99,Lonjakan Ekstrem (Inflasi Tinggi),76066.41
+DKI Jakarta,Cabai Merah,2024-01,78158.33,95163.79,-17.87,Penurunan Signifikan (Deflasi),84210.58
+DKI Jakarta,Cabai Merah,2024-02,88790.0,78158.33,13.6,Lonjakan Ekstrem (Inflasi Tinggi),87370.71
+DKI Jakarta,Cabai Merah,2024-03,83117.74,88790.0,-6.39,Fluktuasi Normal,83355.36
+DKI Jakarta,Cabai Merah,2024-04,57059.62,83117.74,-31.35,Penurunan Signifikan (Deflasi),76322.45
+DKI Jakarta,Cabai Merah,2024-05,68785.19,57059.62,20.55,Lonjakan Ekstrem (Inflasi Tinggi),69654.18
+DKI Jakarta,Cabai Merah,2024-06,64343.33,68785.19,-6.46,Fluktuasi Normal,63396.05
+DKI Jakarta,Cabai Merah,2024-07,53826.67,64343.33,-16.34,Penurunan Signifikan (Deflasi),62318.4
+DKI Jakarta,Cabai Merah,2024-08,49736.21,53826.67,-7.6,Fluktuasi Normal,55968.74
+DKI Jakarta,Cabai Merah,2024-09,43588.33,49736.21,-12.36,Penurunan Signifikan (Deflasi),49050.4
+DKI Jakarta,Cabai Merah,2024-10,39711.29,43588.33,-8.89,Fluktuasi Normal,44345.28
+DKI Jakarta,Cabai Merah,2024-11,36538.33,39711.29,-7.99,Fluktuasi Normal,39945.98
+DKI Jakarta,Cabai Merah,2024-12,49940.32,36538.33,36.68,Lonjakan Ekstrem (Inflasi Tinggi),42063.31
+DKI Jakarta,Cabai Merah,2025-01,67015.38,49940.32,34.19,Lonjakan Ekstrem (Inflasi Tinggi),51164.68
+DKI Jakarta,Cabai Merah,2025-02,59220.37,67015.38,-11.63,Penurunan Signifikan (Deflasi),58725.36
+DKI Jakarta,Cabai Merah,2025-03,68013.33,59220.37,14.85,Lonjakan Ekstrem (Inflasi Tinggi),64749.69
+DKI Jakarta,Cabai Merah,2025-04,68756.9,68013.33,1.09,Fluktuasi Normal,65330.2
+DKI Jakarta,Cabai Merah,2025-05,48887.5,68756.9,-28.9,Penurunan Signifikan (Deflasi),61885.91
+DKI Jakarta,Cabai Merah,2025-06,50448.33,48887.5,3.19,Fluktuasi Normal,56030.91
+DKI Jakarta,Cabai Merah,2025-07,48111.29,50448.33,-4.63,Fluktuasi Normal,49149.04
+DKI Jakarta,Cabai Merah,2025-08,46043.55,48111.29,-4.3,Fluktuasi Normal,48201.06
+DKI Jakarta,Cabai Merah,2025-09,60938.33,46043.55,32.35,Lonjakan Ekstrem (Inflasi Tinggi),51697.72
+DKI Jakarta,Cabai Merah,2025-10,65712.96,60938.33,7.84,Fluktuasi Normal,57564.95
+DKI Jakarta,Cabai Merah,2025-11,75375.0,65712.96,14.7,Lonjakan Ekstrem (Inflasi Tinggi),67342.1
+DKI Jakarta,Cabai Merah,2025-12,63837.93,75375.0,-15.31,Penurunan Signifikan (Deflasi),68308.63
+DKI Jakarta,Cabai Merah,2026-01,44020.69,63837.93,-31.04,Penurunan Signifikan (Deflasi),61077.87
+DKI Jakarta,Cabai Merah,2026-02,42750.0,44020.69,-2.89,Fluktuasi Normal,50202.87
+DKI Jakarta,Cabai Rawit,2022-01,63682.14,,,Data Awal (Baseline),63682.14
+DKI Jakarta,Cabai Rawit,2022-02,48218.0,63682.14,-24.28,Penurunan Signifikan (Deflasi),55950.07
+DKI Jakarta,Cabai Rawit,2022-03,55923.21,48218.0,15.98,Lonjakan Ekstrem (Inflasi Tinggi),55941.12
+DKI Jakarta,Cabai Rawit,2022-04,47534.78,55923.21,-15.0,Penurunan Signifikan (Deflasi),50558.66
+DKI Jakarta,Cabai Rawit,2022-05,52210.0,47534.78,9.84,Fluktuasi Normal,51889.33
+DKI Jakarta,Cabai Rawit,2022-06,91611.54,52210.0,75.47,Lonjakan Ekstrem (Inflasi Tinggi),63785.44
+DKI Jakarta,Cabai Rawit,2022-07,94444.44,91611.54,3.09,Fluktuasi Normal,79421.99
+DKI Jakarta,Cabai Rawit,2022-08,62650.0,94444.44,-33.66,Penurunan Signifikan (Deflasi),82901.99
+DKI Jakarta,Cabai Rawit,2022-09,61457.69,62650.0,-1.9,Fluktuasi Normal,72850.71
+DKI Jakarta,Cabai Rawit,2022-10,49486.21,61457.69,-19.48,Penurunan Signifikan (Deflasi),57864.63
+DKI Jakarta,Cabai Rawit,2022-11,40501.67,49486.21,-18.16,Penurunan Signifikan (Deflasi),50481.86
+DKI Jakarta,Cabai Rawit,2022-12,53343.1,40501.67,31.71,Lonjakan Ekstrem (Inflasi Tinggi),47776.99
+DKI Jakarta,Cabai Rawit,2023-01,67585.48,53343.1,26.7,Lonjakan Ekstrem (Inflasi Tinggi),53810.08
+DKI Jakarta,Cabai Rawit,2023-02,63693.75,67585.48,-5.76,Fluktuasi Normal,61540.78
+DKI Jakarta,Cabai Rawit,2023-03,66966.07,63693.75,5.14,Fluktuasi Normal,66081.77
+DKI Jakarta,Cabai Rawit,2023-04,48340.74,66966.07,-27.81,Penurunan Signifikan (Deflasi),59666.85
+DKI Jakarta,Cabai Rawit,2023-05,45480.36,48340.74,-5.92,Fluktuasi Normal,53595.72
+DKI Jakarta,Cabai Rawit,2023-06,47554.0,45480.36,4.56,Fluktuasi Normal,47125.03
+DKI Jakarta,Cabai Rawit,2023-07,45541.07,47554.0,-4.23,Fluktuasi Normal,46191.81
+DKI Jakarta,Cabai Rawit,2023-08,47688.89,45541.07,4.72,Fluktuasi Normal,46927.99
+DKI Jakarta,Cabai Rawit,2023-09,42994.23,47688.89,-9.84,Fluktuasi Normal,45408.06
+DKI Jakarta,Cabai Rawit,2023-10,56629.03,42994.23,31.71,Lonjakan Ekstrem (Inflasi Tinggi),49104.05
+DKI Jakarta,Cabai Rawit,2023-11,84678.85,56629.03,49.53,Lonjakan Ekstrem (Inflasi Tinggi),61434.04
+DKI Jakarta,Cabai Rawit,2023-12,83300.0,84678.85,-1.63,Fluktuasi Normal,74869.29
+DKI Jakarta,Cabai Rawit,2024-01,57951.67,83300.0,-30.43,Penurunan Signifikan (Deflasi),75310.17
+DKI Jakarta,Cabai Rawit,2024-02,61910.0,57951.67,6.83,Fluktuasi Normal,67720.56
+DKI Jakarta,Cabai Rawit,2024-03,64696.77,61910.0,4.5,Fluktuasi Normal,61519.48
+DKI Jakarta,Cabai Rawit,2024-04,48121.15,64696.77,-25.62,Penurunan Signifikan (Deflasi),58242.64
+DKI Jakarta,Cabai Rawit,2024-05,47687.04,48121.15,-0.9,Fluktuasi Normal,53501.65
+DKI Jakarta,Cabai Rawit,2024-06,50620.0,47687.04,6.15,Fluktuasi Normal,48809.4
+DKI Jakarta,Cabai Rawit,2024-07,67003.33,50620.0,32.37,Lonjakan Ekstrem (Inflasi Tinggi),55103.46
+DKI Jakarta,Cabai Rawit,2024-08,67820.69,67003.33,1.22,Fluktuasi Normal,61814.67
+DKI Jakarta,Cabai Rawit,2024-09,48581.67,67820.69,-28.37,Penurunan Signifikan (Deflasi),61135.23
+DKI Jakarta,Cabai Rawit,2024-10,46261.29,48581.67,-4.78,Fluktuasi Normal,54221.22
+DKI Jakarta,Cabai Rawit,2024-11,40098.33,46261.29,-13.32,Penurunan Signifikan (Deflasi),44980.43
+DKI Jakarta,Cabai Rawit,2024-12,55132.26,40098.33,37.49,Lonjakan Ekstrem (Inflasi Tinggi),47163.96
+DKI Jakarta,Cabai Rawit,2025-01,93517.31,55132.26,69.62,Lonjakan Ekstrem (Inflasi Tinggi),62915.97
+DKI Jakarta,Cabai Rawit,2025-02,79537.04,93517.31,-14.95,Penurunan Signifikan (Deflasi),76062.2
+DKI Jakarta,Cabai Rawit,2025-03,88968.33,79537.04,11.86,Lonjakan Ekstrem (Inflasi Tinggi),87340.89
+DKI Jakarta,Cabai Rawit,2025-04,75477.59,88968.33,-15.16,Penurunan Signifikan (Deflasi),81327.65
+DKI Jakarta,Cabai Rawit,2025-05,42478.57,75477.59,-43.72,Penurunan Signifikan (Deflasi),68974.83
+DKI Jakarta,Cabai Rawit,2025-06,55645.0,42478.57,31.0,Lonjakan Ekstrem (Inflasi Tinggi),57867.05
+DKI Jakarta,Cabai Rawit,2025-07,57893.55,55645.0,4.04,Fluktuasi Normal,52005.71
+DKI Jakarta,Cabai Rawit,2025-08,44900.0,57893.55,-22.44,Penurunan Signifikan (Deflasi),52812.85
+DKI Jakarta,Cabai Rawit,2025-09,45261.67,44900.0,0.81,Fluktuasi Normal,49351.74
+DKI Jakarta,Cabai Rawit,2025-10,43464.81,45261.67,-3.97,Fluktuasi Normal,44542.16
+DKI Jakarta,Cabai Rawit,2025-11,45895.0,43464.81,5.59,Fluktuasi Normal,44873.83
+DKI Jakarta,Cabai Rawit,2025-12,79837.93,45895.0,73.96,Lonjakan Ekstrem (Inflasi Tinggi),56399.25
+DKI Jakarta,Cabai Rawit,2026-01,63877.59,79837.93,-19.99,Penurunan Signifikan (Deflasi),63203.51
+DKI Jakarta,Cabai Rawit,2026-02,75720.83,63877.59,18.54,Lonjakan Ekstrem (Inflasi Tinggi),73145.45
+DKI Jakarta,Daging Ayam,2022-01,40635.71,,,Data Awal (Baseline),40635.71
+DKI Jakarta,Daging Ayam,2022-02,35536.0,40635.71,-12.55,Penurunan Signifikan (Deflasi),38085.85
+DKI Jakarta,Daging Ayam,2022-03,36908.93,35536.0,3.86,Fluktuasi Normal,37693.55
+DKI Jakarta,Daging Ayam,2022-04,39893.48,36908.93,8.09,Fluktuasi Normal,37446.14
+DKI Jakarta,Daging Ayam,2022-05,37790.0,39893.48,-5.27,Fluktuasi Normal,38197.47
+DKI Jakarta,Daging Ayam,2022-06,39373.08,37790.0,4.19,Fluktuasi Normal,39018.85
+DKI Jakarta,Daging Ayam,2022-07,38890.74,39373.08,-1.23,Fluktuasi Normal,38684.61
+DKI Jakarta,Daging Ayam,2022-08,36832.14,38890.74,-5.29,Fluktuasi Normal,38365.32
+DKI Jakarta,Daging Ayam,2022-09,35046.15,36832.14,-4.85,Fluktuasi Normal,36923.01
+DKI Jakarta,Daging Ayam,2022-10,34698.28,35046.15,-0.99,Fluktuasi Normal,35525.52
+DKI Jakarta,Daging Ayam,2022-11,35780.0,34698.28,3.12,Fluktuasi Normal,35174.81
+DKI Jakarta,Daging Ayam,2022-12,36781.03,35780.0,2.8,Fluktuasi Normal,35753.1
+DKI Jakarta,Daging Ayam,2023-01,35606.45,36781.03,-3.19,Fluktuasi Normal,36055.83
+DKI Jakarta,Daging Ayam,2023-02,34756.25,35606.45,-2.39,Fluktuasi Normal,35714.58
+DKI Jakarta,Daging Ayam,2023-03,35821.43,34756.25,3.06,Fluktuasi Normal,35394.71
+DKI Jakarta,Daging Ayam,2023-04,37942.59,35821.43,5.92,Fluktuasi Normal,36173.42
+DKI Jakarta,Daging Ayam,2023-05,39221.43,37942.59,3.37,Fluktuasi Normal,37661.82
+DKI Jakarta,Daging Ayam,2023-06,40732.0,39221.43,3.85,Fluktuasi Normal,39298.67
+DKI Jakarta,Daging Ayam,2023-07,41373.21,40732.0,1.57,Fluktuasi Normal,40442.21
+DKI Jakarta,Daging Ayam,2023-08,38850.0,41373.21,-6.1,Fluktuasi Normal,40318.4
+DKI Jakarta,Daging Ayam,2023-09,37486.54,38850.0,-3.51,Fluktuasi Normal,39236.58
+DKI Jakarta,Daging Ayam,2023-10,36067.74,37486.54,-3.78,Fluktuasi Normal,37468.09
+DKI Jakarta,Daging Ayam,2023-11,35576.92,36067.74,-1.36,Fluktuasi Normal,36377.07
+DKI Jakarta,Daging Ayam,2023-12,34251.72,35576.92,-3.72,Fluktuasi Normal,35298.79
+DKI Jakarta,Daging Ayam,2024-01,34553.33,34251.72,0.88,Fluktuasi Normal,34793.99
+DKI Jakarta,Daging Ayam,2024-02,35536.0,34553.33,2.84,Fluktuasi Normal,34780.35
+DKI Jakarta,Daging Ayam,2024-03,38804.84,35536.0,9.2,Fluktuasi Normal,36298.06
+DKI Jakarta,Daging Ayam,2024-04,38817.31,38804.84,0.03,Fluktuasi Normal,37719.38
+DKI Jakarta,Daging Ayam,2024-05,38359.26,38817.31,-1.18,Fluktuasi Normal,38660.47
+DKI Jakarta,Daging Ayam,2024-06,37313.33,38359.26,-2.73,Fluktuasi Normal,38163.3
+DKI Jakarta,Daging Ayam,2024-07,37108.33,37313.33,-0.55,Fluktuasi Normal,37593.64
+DKI Jakarta,Daging Ayam,2024-08,35153.45,37108.33,-5.27,Fluktuasi Normal,36525.04
+DKI Jakarta,Daging Ayam,2024-09,35125.0,35153.45,-0.08,Fluktuasi Normal,35795.59
+DKI Jakarta,Daging Ayam,2024-10,37472.58,35125.0,6.68,Fluktuasi Normal,35917.01
+DKI Jakarta,Daging Ayam,2024-11,37150.0,37472.58,-0.86,Fluktuasi Normal,36582.53
+DKI Jakarta,Daging Ayam,2024-12,36590.32,37150.0,-1.51,Fluktuasi Normal,37070.97
+DKI Jakarta,Daging Ayam,2025-01,36994.23,36590.32,1.1,Fluktuasi Normal,36911.52
+DKI Jakarta,Daging Ayam,2025-02,36081.48,36994.23,-2.47,Fluktuasi Normal,36555.34
+DKI Jakarta,Daging Ayam,2025-03,37535.0,36081.48,4.03,Fluktuasi Normal,36870.24
+DKI Jakarta,Daging Ayam,2025-04,35468.97,37535.0,-5.5,Fluktuasi Normal,36361.82
+DKI Jakarta,Daging Ayam,2025-05,34612.5,35468.97,-2.41,Fluktuasi Normal,35872.16
+DKI Jakarta,Daging Ayam,2025-06,36270.0,34612.5,4.79,Fluktuasi Normal,35450.49
+DKI Jakarta,Daging Ayam,2025-07,35737.1,36270.0,-1.47,Fluktuasi Normal,35539.87
+DKI Jakarta,Daging Ayam,2025-08,34253.23,35737.1,-4.15,Fluktuasi Normal,35420.11
+DKI Jakarta,Daging Ayam,2025-09,40991.67,34253.23,19.67,Lonjakan Ekstrem (Inflasi Tinggi),36994.0
+DKI Jakarta,Daging Ayam,2025-10,40379.63,40991.67,-1.49,Fluktuasi Normal,38541.51
+DKI Jakarta,Daging Ayam,2025-11,38441.67,40379.63,-4.8,Fluktuasi Normal,39937.66
+DKI Jakarta,Daging Ayam,2025-12,43410.34,38441.67,12.93,Lonjakan Ekstrem (Inflasi Tinggi),40743.88
+DKI Jakarta,Daging Ayam,2026-01,40489.66,43410.34,-6.73,Fluktuasi Normal,40780.56
+DKI Jakarta,Daging Ayam,2026-02,40387.5,40489.66,-0.25,Fluktuasi Normal,41429.17
+DKI Jakarta,Daging Sapi,2022-01,128230.36,,,Data Awal (Baseline),128230.36
+DKI Jakarta,Daging Sapi,2022-02,131844.0,128230.36,2.82,Fluktuasi Normal,130037.18
+DKI Jakarta,Daging Sapi,2022-03,140508.93,131844.0,6.57,Fluktuasi Normal,133527.76
+DKI Jakarta,Daging Sapi,2022-04,145606.52,140508.93,3.63,Fluktuasi Normal,139319.82
+DKI Jakarta,Daging Sapi,2022-05,146650.0,145606.52,0.72,Fluktuasi Normal,144255.15
+DKI Jakarta,Daging Sapi,2022-06,146619.23,146650.0,-0.02,Fluktuasi Normal,146291.92
+DKI Jakarta,Daging Sapi,2022-07,146079.63,146619.23,-0.37,Fluktuasi Normal,146449.62
+DKI Jakarta,Daging Sapi,2022-08,145862.5,146079.63,-0.15,Fluktuasi Normal,146187.12
+DKI Jakarta,Daging Sapi,2022-09,145525.0,145862.5,-0.23,Fluktuasi Normal,145822.38
+DKI Jakarta,Daging Sapi,2022-10,142731.03,145525.0,-1.92,Fluktuasi Normal,144706.18
+DKI Jakarta,Daging Sapi,2022-11,142583.33,142731.03,-0.1,Fluktuasi Normal,143613.12
+DKI Jakarta,Daging Sapi,2022-12,142377.59,142583.33,-0.14,Fluktuasi Normal,142563.98
+DKI Jakarta,Daging Sapi,2023-01,140987.1,142377.59,-0.98,Fluktuasi Normal,141982.67
+DKI Jakarta,Daging Sapi,2023-02,140850.0,140987.1,-0.1,Fluktuasi Normal,141404.9
+DKI Jakarta,Daging Sapi,2023-03,140932.14,140850.0,0.06,Fluktuasi Normal,140923.08
+DKI Jakarta,Daging Sapi,2023-04,142694.44,140932.14,1.25,Fluktuasi Normal,141492.19
+DKI Jakarta,Daging Sapi,2023-05,142366.07,142694.44,-0.23,Fluktuasi Normal,141997.55
+DKI Jakarta,Daging Sapi,2023-06,141650.0,142366.07,-0.5,Fluktuasi Normal,142236.84
+DKI Jakarta,Daging Sapi,2023-07,141650.0,141650.0,0.0,Fluktuasi Normal,141888.69
+DKI Jakarta,Daging Sapi,2023-08,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2023-09,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2023-10,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2023-11,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2023-12,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2024-01,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2024-02,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2024-03,141650.0,141650.0,0.0,Fluktuasi Normal,141650.0
+DKI Jakarta,Daging Sapi,2024-04,142363.46,141650.0,0.5,Fluktuasi Normal,141887.82
+DKI Jakarta,Daging Sapi,2024-05,140092.59,142363.46,-1.6,Fluktuasi Normal,141368.68
+DKI Jakarta,Daging Sapi,2024-06,140000.0,140092.59,-0.07,Fluktuasi Normal,140818.68
+DKI Jakarta,Daging Sapi,2024-07,140000.0,140000.0,0.0,Fluktuasi Normal,140030.86
+DKI Jakarta,Daging Sapi,2024-08,140000.0,140000.0,0.0,Fluktuasi Normal,140000.0
+DKI Jakarta,Daging Sapi,2024-09,140000.0,140000.0,0.0,Fluktuasi Normal,140000.0
+DKI Jakarta,Daging Sapi,2024-10,138680.65,140000.0,-0.94,Fluktuasi Normal,139560.22
+DKI Jakarta,Daging Sapi,2024-11,135736.67,138680.65,-2.12,Fluktuasi Normal,138139.11
+DKI Jakarta,Daging Sapi,2024-12,134625.81,135736.67,-0.82,Fluktuasi Normal,136347.71
+DKI Jakarta,Daging Sapi,2025-01,134600.0,134625.81,-0.02,Fluktuasi Normal,134987.49
+DKI Jakarta,Daging Sapi,2025-02,135707.41,134600.0,0.82,Fluktuasi Normal,134977.74
+DKI Jakarta,Daging Sapi,2025-03,137986.67,135707.41,1.68,Fluktuasi Normal,136098.03
+DKI Jakarta,Daging Sapi,2025-04,139222.41,137986.67,0.9,Fluktuasi Normal,137638.83
+DKI Jakarta,Daging Sapi,2025-05,137900.0,139222.41,-0.95,Fluktuasi Normal,138369.69
+DKI Jakarta,Daging Sapi,2025-06,137900.0,137900.0,0.0,Fluktuasi Normal,138340.8
+DKI Jakarta,Daging Sapi,2025-07,137635.48,137900.0,-0.19,Fluktuasi Normal,137811.83
+DKI Jakarta,Daging Sapi,2025-08,135850.0,137635.48,-1.3,Fluktuasi Normal,137128.49
+DKI Jakarta,Daging Sapi,2025-09,135415.0,135850.0,-0.32,Fluktuasi Normal,136300.16
+DKI Jakarta,Daging Sapi,2025-10,135400.0,135415.0,-0.01,Fluktuasi Normal,135555.0
+DKI Jakarta,Daging Sapi,2025-11,135400.0,135400.0,0.0,Fluktuasi Normal,135405.0
+DKI Jakarta,Daging Sapi,2025-12,137017.24,135400.0,1.19,Fluktuasi Normal,135939.08
+DKI Jakarta,Daging Sapi,2026-01,139127.59,137017.24,1.54,Fluktuasi Normal,137181.61
+DKI Jakarta,Daging Sapi,2026-02,144250.0,139127.59,3.68,Fluktuasi Normal,140131.61
+DKI Jakarta,Gula Pasir,2022-01,14612.5,,,Data Awal (Baseline),14612.5
+DKI Jakarta,Gula Pasir,2022-02,14552.0,14612.5,-0.41,Fluktuasi Normal,14582.25
+DKI Jakarta,Gula Pasir,2022-03,14621.43,14552.0,0.48,Fluktuasi Normal,14595.31
+DKI Jakarta,Gula Pasir,2022-04,15245.65,14621.43,4.27,Fluktuasi Normal,14806.36
+DKI Jakarta,Gula Pasir,2022-05,15650.0,15245.65,2.65,Fluktuasi Normal,15172.36
+DKI Jakarta,Gula Pasir,2022-06,15630.77,15650.0,-0.12,Fluktuasi Normal,15508.81
+DKI Jakarta,Gula Pasir,2022-07,15192.59,15630.77,-2.8,Fluktuasi Normal,15491.12
+DKI Jakarta,Gula Pasir,2022-08,15144.64,15192.59,-0.32,Fluktuasi Normal,15322.67
+DKI Jakarta,Gula Pasir,2022-09,15123.08,15144.64,-0.14,Fluktuasi Normal,15153.44
+DKI Jakarta,Gula Pasir,2022-10,15150.0,15123.08,0.18,Fluktuasi Normal,15139.24
+DKI Jakarta,Gula Pasir,2022-11,15148.33,15150.0,-0.01,Fluktuasi Normal,15140.47
+DKI Jakarta,Gula Pasir,2022-12,15143.1,15148.33,-0.03,Fluktuasi Normal,15147.14
+DKI Jakarta,Gula Pasir,2023-01,15146.77,15143.1,0.02,Fluktuasi Normal,15146.07
+DKI Jakarta,Gula Pasir,2023-02,15150.0,15146.77,0.02,Fluktuasi Normal,15146.62
+DKI Jakarta,Gula Pasir,2023-03,15151.79,15150.0,0.01,Fluktuasi Normal,15149.52
+DKI Jakarta,Gula Pasir,2023-04,15150.0,15151.79,-0.01,Fluktuasi Normal,15150.6
+DKI Jakarta,Gula Pasir,2023-05,15192.86,15150.0,0.28,Fluktuasi Normal,15164.88
+DKI Jakarta,Gula Pasir,2023-06,15250.0,15192.86,0.38,Fluktuasi Normal,15197.62
+DKI Jakarta,Gula Pasir,2023-07,15292.86,15250.0,0.28,Fluktuasi Normal,15245.24
+DKI Jakarta,Gula Pasir,2023-08,15712.96,15292.86,2.75,Fluktuasi Normal,15418.61
+DKI Jakarta,Gula Pasir,2023-09,15796.15,15712.96,0.53,Fluktuasi Normal,15600.66
+DKI Jakarta,Gula Pasir,2023-10,16170.97,15796.15,2.37,Fluktuasi Normal,15893.36
+DKI Jakarta,Gula Pasir,2023-11,17419.23,16170.97,7.72,Fluktuasi Normal,16462.12
+DKI Jakarta,Gula Pasir,2023-12,18098.28,17419.23,3.9,Fluktuasi Normal,17229.49
+DKI Jakarta,Gula Pasir,2024-01,18150.0,18098.28,0.29,Fluktuasi Normal,17889.17
+DKI Jakarta,Gula Pasir,2024-02,18150.0,18150.0,0.0,Fluktuasi Normal,18132.76
+DKI Jakarta,Gula Pasir,2024-03,18195.16,18150.0,0.25,Fluktuasi Normal,18165.05
+DKI Jakarta,Gula Pasir,2024-04,18576.92,18195.16,2.1,Fluktuasi Normal,18307.36
+DKI Jakarta,Gula Pasir,2024-05,19607.41,18576.92,5.55,Fluktuasi Normal,18793.16
+DKI Jakarta,Gula Pasir,2024-06,19456.67,19607.41,-0.77,Fluktuasi Normal,19213.67
+DKI Jakarta,Gula Pasir,2024-07,19473.33,19456.67,0.09,Fluktuasi Normal,19512.47
+DKI Jakarta,Gula Pasir,2024-08,19429.31,19473.33,-0.23,Fluktuasi Normal,19453.1
+DKI Jakarta,Gula Pasir,2024-09,19235.0,19429.31,-1.0,Fluktuasi Normal,19379.21
+DKI Jakarta,Gula Pasir,2024-10,19203.23,19235.0,-0.17,Fluktuasi Normal,19289.18
+DKI Jakarta,Gula Pasir,2024-11,19293.33,19203.23,0.47,Fluktuasi Normal,19243.85
+DKI Jakarta,Gula Pasir,2024-12,19320.97,19293.33,0.14,Fluktuasi Normal,19272.51
+DKI Jakarta,Gula Pasir,2025-01,19480.77,19320.97,0.83,Fluktuasi Normal,19365.02
+DKI Jakarta,Gula Pasir,2025-02,19646.3,19480.77,0.85,Fluktuasi Normal,19482.68
+DKI Jakarta,Gula Pasir,2025-03,19650.0,19646.3,0.02,Fluktuasi Normal,19592.36
+DKI Jakarta,Gula Pasir,2025-04,19650.0,19650.0,0.0,Fluktuasi Normal,19648.77
+DKI Jakarta,Gula Pasir,2025-05,19650.0,19650.0,0.0,Fluktuasi Normal,19650.0
+DKI Jakarta,Gula Pasir,2025-06,19610.0,19650.0,-0.2,Fluktuasi Normal,19636.67
+DKI Jakarta,Gula Pasir,2025-07,19550.0,19610.0,-0.31,Fluktuasi Normal,19603.33
+DKI Jakarta,Gula Pasir,2025-08,19511.29,19550.0,-0.2,Fluktuasi Normal,19557.1
+DKI Jakarta,Gula Pasir,2025-09,19305.0,19511.29,-1.06,Fluktuasi Normal,19455.43
+DKI Jakarta,Gula Pasir,2025-10,19222.22,19305.0,-0.43,Fluktuasi Normal,19346.17
+DKI Jakarta,Gula Pasir,2025-11,19050.0,19222.22,-0.9,Fluktuasi Normal,19192.41
+DKI Jakarta,Gula Pasir,2025-12,19050.0,19050.0,0.0,Fluktuasi Normal,19107.41
+DKI Jakarta,Gula Pasir,2026-01,19056.9,19050.0,0.04,Fluktuasi Normal,19052.3
+DKI Jakarta,Gula Pasir,2026-02,19195.83,19056.9,0.73,Fluktuasi Normal,19100.91
+DKI Jakarta,Minyak Goreng,2022-01,20641.07,,,Data Awal (Baseline),20641.07
+DKI Jakarta,Minyak Goreng,2022-02,19236.0,20641.07,-6.81,Fluktuasi Normal,19938.54
+DKI Jakarta,Minyak Goreng,2022-03,19930.36,19236.0,3.61,Fluktuasi Normal,19935.81
+DKI Jakarta,Minyak Goreng,2022-04,23471.74,19930.36,17.77,Lonjakan Ekstrem (Inflasi Tinggi),20879.37
+DKI Jakarta,Minyak Goreng,2022-05,23840.0,23471.74,1.57,Fluktuasi Normal,22414.03
+DKI Jakarta,Minyak Goreng,2022-06,22286.54,23840.0,-6.52,Fluktuasi Normal,23199.43
+DKI Jakarta,Minyak Goreng,2022-07,21598.15,22286.54,-3.09,Fluktuasi Normal,22574.9
+DKI Jakarta,Minyak Goreng,2022-08,19689.29,21598.15,-8.84,Fluktuasi Normal,21191.33
+DKI Jakarta,Minyak Goreng,2022-09,19634.62,19689.29,-0.28,Fluktuasi Normal,20307.35
+DKI Jakarta,Minyak Goreng,2022-10,19203.45,19634.62,-2.2,Fluktuasi Normal,19509.12
+DKI Jakarta,Minyak Goreng,2022-11,19163.33,19203.45,-0.21,Fluktuasi Normal,19333.8
+DKI Jakarta,Minyak Goreng,2022-12,19758.62,19163.33,3.11,Fluktuasi Normal,19375.13
+DKI Jakarta,Minyak Goreng,2023-01,19617.74,19758.62,-0.71,Fluktuasi Normal,19513.23
+DKI Jakarta,Minyak Goreng,2023-02,19422.92,19617.74,-0.99,Fluktuasi Normal,19599.76
+DKI Jakarta,Minyak Goreng,2023-03,19278.57,19422.92,-0.74,Fluktuasi Normal,19439.74
+DKI Jakarta,Minyak Goreng,2023-04,19200.0,19278.57,-0.41,Fluktuasi Normal,19300.5
+DKI Jakarta,Minyak Goreng,2023-05,19078.57,19200.0,-0.63,Fluktuasi Normal,19185.71
+DKI Jakarta,Minyak Goreng,2023-06,19092.0,19078.57,0.07,Fluktuasi Normal,19123.52
+DKI Jakarta,Minyak Goreng,2023-07,19100.0,19092.0,0.04,Fluktuasi Normal,19090.19
+DKI Jakarta,Minyak Goreng,2023-08,18985.19,19100.0,-0.6,Fluktuasi Normal,19059.06
+DKI Jakarta,Minyak Goreng,2023-09,18773.08,18985.19,-1.12,Fluktuasi Normal,18952.76
+DKI Jakarta,Minyak Goreng,2023-10,18545.16,18773.08,-1.21,Fluktuasi Normal,18767.81
+DKI Jakarta,Minyak Goreng,2023-11,18182.69,18545.16,-1.95,Fluktuasi Normal,18500.31
+DKI Jakarta,Minyak Goreng,2023-12,18115.52,18182.69,-0.37,Fluktuasi Normal,18281.12
+DKI Jakarta,Minyak Goreng,2024-01,18083.33,18115.52,-0.18,Fluktuasi Normal,18127.18
+DKI Jakarta,Minyak Goreng,2024-02,18264.0,18083.33,1.0,Fluktuasi Normal,18154.28
+DKI Jakarta,Minyak Goreng,2024-03,18733.87,18264.0,2.57,Fluktuasi Normal,18360.4
+DKI Jakarta,Minyak Goreng,2024-04,18942.31,18733.87,1.11,Fluktuasi Normal,18646.73
+DKI Jakarta,Minyak Goreng,2024-05,19135.19,18942.31,1.02,Fluktuasi Normal,18937.12
+DKI Jakarta,Minyak Goreng,2024-06,19061.67,19135.19,-0.38,Fluktuasi Normal,19046.39
+DKI Jakarta,Minyak Goreng,2024-07,19165.0,19061.67,0.54,Fluktuasi Normal,19120.62
+DKI Jakarta,Minyak Goreng,2024-08,19087.93,19165.0,-0.4,Fluktuasi Normal,19104.87
+DKI Jakarta,Minyak Goreng,2024-09,19208.33,19087.93,0.63,Fluktuasi Normal,19153.75
+DKI Jakarta,Minyak Goreng,2024-10,19422.58,19208.33,1.12,Fluktuasi Normal,19239.61
+DKI Jakarta,Minyak Goreng,2024-11,19848.33,19422.58,2.19,Fluktuasi Normal,19493.08
+DKI Jakarta,Minyak Goreng,2024-12,20461.29,19848.33,3.09,Fluktuasi Normal,19910.73
+DKI Jakarta,Minyak Goreng,2025-01,20598.08,20461.29,0.67,Fluktuasi Normal,20302.57
+DKI Jakarta,Minyak Goreng,2025-02,20735.19,20598.08,0.67,Fluktuasi Normal,20598.19
+DKI Jakarta,Minyak Goreng,2025-03,21050.0,20735.19,1.52,Fluktuasi Normal,20794.42
+DKI Jakarta,Minyak Goreng,2025-04,21025.86,21050.0,-0.11,Fluktuasi Normal,20937.02
+DKI Jakarta,Minyak Goreng,2025-05,20933.93,21025.86,-0.44,Fluktuasi Normal,21003.26
+DKI Jakarta,Minyak Goreng,2025-06,20765.0,20933.93,-0.81,Fluktuasi Normal,20908.26
+DKI Jakarta,Minyak Goreng,2025-07,20650.0,20765.0,-0.55,Fluktuasi Normal,20782.98
+DKI Jakarta,Minyak Goreng,2025-08,20682.26,20650.0,0.16,Fluktuasi Normal,20699.09
+DKI Jakarta,Minyak Goreng,2025-09,20765.0,20682.26,0.4,Fluktuasi Normal,20699.09
+DKI Jakarta,Minyak Goreng,2025-10,20800.0,20765.0,0.17,Fluktuasi Normal,20749.09
+DKI Jakarta,Minyak Goreng,2025-11,20835.0,20800.0,0.17,Fluktuasi Normal,20800.0
+DKI Jakarta,Minyak Goreng,2025-12,20900.0,20835.0,0.31,Fluktuasi Normal,20845.0
+DKI Jakarta,Minyak Goreng,2026-01,20900.0,20900.0,0.0,Fluktuasi Normal,20878.33
+DKI Jakarta,Minyak Goreng,2026-02,20900.0,20900.0,0.0,Fluktuasi Normal,20900.0
+DKI Jakarta,Telur Ayam,2022-01,25326.79,,,Data Awal (Baseline),25326.79
+DKI Jakarta,Telur Ayam,2022-02,21008.0,25326.79,-17.05,Penurunan Signifikan (Deflasi),23167.4
+DKI Jakarta,Telur Ayam,2022-03,24564.29,21008.0,16.93,Lonjakan Ekstrem (Inflasi Tinggi),23633.03
+DKI Jakarta,Telur Ayam,2022-04,25291.3,24564.29,2.96,Fluktuasi Normal,23621.2
+DKI Jakarta,Telur Ayam,2022-05,27425.0,25291.3,8.44,Fluktuasi Normal,25760.2
+DKI Jakarta,Telur Ayam,2022-06,28769.23,27425.0,4.9,Fluktuasi Normal,27161.84
+DKI Jakarta,Telur Ayam,2022-07,28201.85,28769.23,-1.97,Fluktuasi Normal,28132.03
+DKI Jakarta,Telur Ayam,2022-08,29526.79,28201.85,4.7,Fluktuasi Normal,28832.62
+DKI Jakarta,Telur Ayam,2022-09,28103.85,29526.79,-4.82,Fluktuasi Normal,28610.83
+DKI Jakarta,Telur Ayam,2022-10,25948.28,28103.85,-7.67,Fluktuasi Normal,27859.64
+DKI Jakarta,Telur Ayam,2022-11,28048.33,25948.28,8.09,Fluktuasi Normal,27366.82
+DKI Jakarta,Telur Ayam,2022-12,30632.76,28048.33,9.21,Fluktuasi Normal,28209.79
+DKI Jakarta,Telur Ayam,2023-01,28169.35,30632.76,-8.04,Fluktuasi Normal,28950.15
+DKI Jakarta,Telur Ayam,2023-02,27464.58,28169.35,-2.5,Fluktuasi Normal,28755.56
+DKI Jakarta,Telur Ayam,2023-03,28626.79,27464.58,4.23,Fluktuasi Normal,28086.91
+DKI Jakarta,Telur Ayam,2023-04,28596.3,28626.79,-0.11,Fluktuasi Normal,28229.22
+DKI Jakarta,Telur Ayam,2023-05,31041.07,28596.3,8.55,Fluktuasi Normal,29421.39
+DKI Jakarta,Telur Ayam,2023-06,31128.0,31041.07,0.28,Fluktuasi Normal,30255.12
+DKI Jakarta,Telur Ayam,2023-07,31608.93,31128.0,1.55,Fluktuasi Normal,31259.33
+DKI Jakarta,Telur Ayam,2023-08,30448.15,31608.93,-3.67,Fluktuasi Normal,31061.69
+DKI Jakarta,Telur Ayam,2023-09,27146.15,30448.15,-10.84,Penurunan Signifikan (Deflasi),29734.41
+DKI Jakarta,Telur Ayam,2023-10,26037.1,27146.15,-4.09,Fluktuasi Normal,27877.13
+DKI Jakarta,Telur Ayam,2023-11,26888.46,26037.1,3.27,Fluktuasi Normal,26690.57
+DKI Jakarta,Telur Ayam,2023-12,27213.79,26888.46,1.21,Fluktuasi Normal,26713.12
+DKI Jakarta,Telur Ayam,2024-01,26776.67,27213.79,-1.61,Fluktuasi Normal,26959.64
+DKI Jakarta,Telur Ayam,2024-02,28458.0,26776.67,6.28,Fluktuasi Normal,27482.82
+DKI Jakarta,Telur Ayam,2024-03,31593.55,28458.0,11.02,Lonjakan Ekstrem (Inflasi Tinggi),28942.74
+DKI Jakarta,Telur Ayam,2024-04,28653.85,31593.55,-9.3,Fluktuasi Normal,29568.47
+DKI Jakarta,Telur Ayam,2024-05,29890.74,28653.85,4.32,Fluktuasi Normal,30046.05
+DKI Jakarta,Telur Ayam,2024-06,28341.67,29890.74,-5.18,Fluktuasi Normal,28962.09
+DKI Jakarta,Telur Ayam,2024-07,28236.67,28341.67,-0.37,Fluktuasi Normal,28823.03
+DKI Jakarta,Telur Ayam,2024-08,27184.48,28236.67,-3.73,Fluktuasi Normal,27920.94
+DKI Jakarta,Telur Ayam,2024-09,26376.67,27184.48,-2.97,Fluktuasi Normal,27265.94
+DKI Jakarta,Telur Ayam,2024-10,26879.03,26376.67,1.9,Fluktuasi Normal,26813.39
+DKI Jakarta,Telur Ayam,2024-11,26635.0,26879.03,-0.91,Fluktuasi Normal,26630.23
+DKI Jakarta,Telur Ayam,2024-12,29751.61,26635.0,11.7,Lonjakan Ekstrem (Inflasi Tinggi),27755.21
+DKI Jakarta,Telur Ayam,2025-01,28880.77,29751.61,-2.93,Fluktuasi Normal,28422.46
+DKI Jakarta,Telur Ayam,2025-02,28388.89,28880.77,-1.7,Fluktuasi Normal,29007.09
+DKI Jakarta,Telur Ayam,2025-03,29436.67,28388.89,3.69,Fluktuasi Normal,28902.11
+DKI Jakarta,Telur Ayam,2025-04,27524.14,29436.67,-6.5,Fluktuasi Normal,28449.9
+DKI Jakarta,Telur Ayam,2025-05,28019.64,27524.14,1.8,Fluktuasi Normal,28326.82
+DKI Jakarta,Telur Ayam,2025-06,27935.0,28019.64,-0.3,Fluktuasi Normal,27826.26
+DKI Jakarta,Telur Ayam,2025-07,28964.52,27935.0,3.69,Fluktuasi Normal,28306.39
+DKI Jakarta,Telur Ayam,2025-08,28246.77,28964.52,-2.48,Fluktuasi Normal,28382.1
+DKI Jakarta,Telur Ayam,2025-09,28595.0,28246.77,1.23,Fluktuasi Normal,28602.1
+DKI Jakarta,Telur Ayam,2025-10,30687.04,28595.0,7.32,Fluktuasi Normal,29176.27
+DKI Jakarta,Telur Ayam,2025-11,30101.67,30687.04,-1.91,Fluktuasi Normal,29794.57
+DKI Jakarta,Telur Ayam,2025-12,31072.41,30101.67,3.22,Fluktuasi Normal,30620.37
+DKI Jakarta,Telur Ayam,2026-01,30077.59,31072.41,-3.2,Fluktuasi Normal,30417.22
+DKI Jakarta,Telur Ayam,2026-02,29591.67,30077.59,-1.62,Fluktuasi Normal,30247.22
+Jawa Barat,Bawang Merah,2022-01,26771.43,,,Data Awal (Baseline),26771.43
+Jawa Barat,Bawang Merah,2022-02,33612.0,26771.43,25.55,Lonjakan Ekstrem (Inflasi Tinggi),30191.72
+Jawa Barat,Bawang Merah,2022-03,33328.57,33612.0,-0.84,Fluktuasi Normal,31237.33
+Jawa Barat,Bawang Merah,2022-04,34706.52,33328.57,4.13,Fluktuasi Normal,33882.36
+Jawa Barat,Bawang Merah,2022-05,43592.5,34706.52,25.6,Lonjakan Ekstrem (Inflasi Tinggi),37209.2
+Jawa Barat,Bawang Merah,2022-06,53003.85,43592.5,21.59,Lonjakan Ekstrem (Inflasi Tinggi),43767.62
+Jawa Barat,Bawang Merah,2022-07,60246.3,53003.85,13.66,Lonjakan Ekstrem (Inflasi Tinggi),52280.88
+Jawa Barat,Bawang Merah,2022-08,36782.14,60246.3,-38.95,Penurunan Signifikan (Deflasi),50010.76
+Jawa Barat,Bawang Merah,2022-09,33161.54,36782.14,-9.84,Fluktuasi Normal,43396.66
+Jawa Barat,Bawang Merah,2022-10,33815.52,33161.54,1.97,Fluktuasi Normal,34586.4
+Jawa Barat,Bawang Merah,2022-11,32663.33,33815.52,-3.41,Fluktuasi Normal,33213.46
+Jawa Barat,Bawang Merah,2022-12,32686.21,32663.33,0.07,Fluktuasi Normal,33055.02
+Jawa Barat,Bawang Merah,2023-01,38691.94,32686.21,18.37,Lonjakan Ekstrem (Inflasi Tinggi),34680.49
+Jawa Barat,Bawang Merah,2023-02,42181.25,38691.94,9.02,Fluktuasi Normal,37853.13
+Jawa Barat,Bawang Merah,2023-03,36491.07,42181.25,-13.49,Penurunan Signifikan (Deflasi),39121.42
+Jawa Barat,Bawang Merah,2023-04,37998.15,36491.07,4.13,Fluktuasi Normal,38890.16
+Jawa Barat,Bawang Merah,2023-05,44037.93,37998.15,15.89,Lonjakan Ekstrem (Inflasi Tinggi),39509.05
+Jawa Barat,Bawang Merah,2023-06,42130.0,44037.93,-4.33,Fluktuasi Normal,41388.69
+Jawa Barat,Bawang Merah,2023-07,35296.55,42130.0,-16.22,Penurunan Signifikan (Deflasi),40488.16
+Jawa Barat,Bawang Merah,2023-08,29048.15,35296.55,-17.7,Penurunan Signifikan (Deflasi),35491.57
+Jawa Barat,Bawang Merah,2023-09,25415.38,29048.15,-12.51,Penurunan Signifikan (Deflasi),29920.03
+Jawa Barat,Bawang Merah,2023-10,24311.29,25415.38,-4.34,Fluktuasi Normal,26258.27
+Jawa Barat,Bawang Merah,2023-11,31132.69,24311.29,28.06,Lonjakan Ekstrem (Inflasi Tinggi),26953.12
+Jawa Barat,Bawang Merah,2023-12,35651.72,31132.69,14.52,Lonjakan Ekstrem (Inflasi Tinggi),30365.23
+Jawa Barat,Bawang Merah,2024-01,35553.23,35651.72,-0.28,Fluktuasi Normal,34112.55
+Jawa Barat,Bawang Merah,2024-02,31760.71,35553.23,-10.67,Penurunan Signifikan (Deflasi),34321.89
+Jawa Barat,Bawang Merah,2024-03,33753.23,31760.71,6.27,Fluktuasi Normal,33689.06
+Jawa Barat,Bawang Merah,2024-04,54748.08,33753.23,62.2,Lonjakan Ekstrem (Inflasi Tinggi),40087.34
+Jawa Barat,Bawang Merah,2024-05,52368.52,54748.08,-4.35,Fluktuasi Normal,46956.61
+Jawa Barat,Bawang Merah,2024-06,42376.67,52368.52,-19.08,Penurunan Signifikan (Deflasi),49831.09
+Jawa Barat,Bawang Merah,2024-07,31387.1,42376.67,-25.93,Penurunan Signifikan (Deflasi),42044.1
+Jawa Barat,Bawang Merah,2024-08,26787.93,31387.1,-14.65,Penurunan Signifikan (Deflasi),33517.23
+Jawa Barat,Bawang Merah,2024-09,27023.33,26787.93,0.88,Fluktuasi Normal,28399.45
+Jawa Barat,Bawang Merah,2024-10,29667.74,27023.33,9.79,Fluktuasi Normal,27826.33
+Jawa Barat,Bawang Merah,2024-11,39738.33,29667.74,33.94,Lonjakan Ekstrem (Inflasi Tinggi),32143.13
+Jawa Barat,Bawang Merah,2024-12,41477.42,39738.33,4.38,Fluktuasi Normal,36961.16
+Jawa Barat,Bawang Merah,2025-01,38066.67,41477.42,-8.22,Fluktuasi Normal,39760.81
+Jawa Barat,Bawang Merah,2025-02,34816.07,38066.67,-8.54,Fluktuasi Normal,38120.05
+Jawa Barat,Bawang Merah,2025-03,51356.67,34816.07,47.51,Lonjakan Ekstrem (Inflasi Tinggi),41413.14
+Jawa Barat,Bawang Merah,2025-04,55186.21,51356.67,7.46,Fluktuasi Normal,47119.65
+Jawa Barat,Bawang Merah,2025-05,42985.71,55186.21,-22.11,Penurunan Signifikan (Deflasi),49842.86
+Jawa Barat,Bawang Merah,2025-06,45768.33,42985.71,6.47,Fluktuasi Normal,47980.08
+Jawa Barat,Bawang Merah,2025-07,51293.55,45768.33,12.07,Lonjakan Ekstrem (Inflasi Tinggi),46682.53
+Jawa Barat,Bawang Merah,2025-08,50761.29,51293.55,-1.04,Fluktuasi Normal,49274.39
+Jawa Barat,Bawang Merah,2025-09,39645.0,50761.29,-21.9,Penurunan Signifikan (Deflasi),47233.28
+Jawa Barat,Bawang Merah,2025-10,41192.59,39645.0,3.9,Fluktuasi Normal,43866.29
+Jawa Barat,Bawang Merah,2025-11,43576.67,41192.59,5.79,Fluktuasi Normal,41471.42
+Jawa Barat,Bawang Merah,2025-12,46367.24,43576.67,6.4,Fluktuasi Normal,43712.17
+Jawa Barat,Bawang Merah,2026-01,39429.31,46367.24,-14.96,Penurunan Signifikan (Deflasi),43124.41
+Jawa Barat,Bawang Merah,2026-02,43808.33,39429.31,11.11,Lonjakan Ekstrem (Inflasi Tinggi),43201.63
+Jawa Barat,Bawang Putih,2022-01,28664.29,,,Data Awal (Baseline),28664.29
+Jawa Barat,Bawang Putih,2022-02,28832.0,28664.29,0.59,Fluktuasi Normal,28748.14
+Jawa Barat,Bawang Putih,2022-03,30417.86,28832.0,5.5,Fluktuasi Normal,29304.72
+Jawa Barat,Bawang Putih,2022-04,32219.57,30417.86,5.92,Fluktuasi Normal,30489.81
+Jawa Barat,Bawang Putih,2022-05,31180.0,32219.57,-3.23,Fluktuasi Normal,31272.48
+Jawa Barat,Bawang Putih,2022-06,29534.62,31180.0,-5.28,Fluktuasi Normal,30978.06
+Jawa Barat,Bawang Putih,2022-07,29014.81,29534.62,-1.76,Fluktuasi Normal,29909.81
+Jawa Barat,Bawang Putih,2022-08,28232.14,29014.81,-2.7,Fluktuasi Normal,28927.19
+Jawa Barat,Bawang Putih,2022-09,28167.31,28232.14,-0.23,Fluktuasi Normal,28471.42
+Jawa Barat,Bawang Putih,2022-10,27986.21,28167.31,-0.64,Fluktuasi Normal,28128.55
+Jawa Barat,Bawang Putih,2022-11,27345.0,27986.21,-2.29,Fluktuasi Normal,27832.84
+Jawa Barat,Bawang Putih,2022-12,27644.83,27345.0,1.1,Fluktuasi Normal,27658.68
+Jawa Barat,Bawang Putih,2023-01,28454.84,27644.83,2.93,Fluktuasi Normal,27814.89
+Jawa Barat,Bawang Putih,2023-02,30154.17,28454.84,5.97,Fluktuasi Normal,28751.28
+Jawa Barat,Bawang Putih,2023-03,33746.43,30154.17,11.91,Lonjakan Ekstrem (Inflasi Tinggi),30785.15
+Jawa Barat,Bawang Putih,2023-04,33903.7,33746.43,0.47,Fluktuasi Normal,32601.43
+Jawa Barat,Bawang Putih,2023-05,37827.59,33903.7,11.57,Lonjakan Ekstrem (Inflasi Tinggi),35159.24
+Jawa Barat,Bawang Putih,2023-06,38604.0,37827.59,2.05,Fluktuasi Normal,36778.43
+Jawa Barat,Bawang Putih,2023-07,41001.72,38604.0,6.21,Fluktuasi Normal,39144.44
+Jawa Barat,Bawang Putih,2023-08,40907.41,41001.72,-0.23,Fluktuasi Normal,40171.04
+Jawa Barat,Bawang Putih,2023-09,39519.23,40907.41,-3.39,Fluktuasi Normal,40476.12
+Jawa Barat,Bawang Putih,2023-10,38604.84,39519.23,-2.31,Fluktuasi Normal,39677.16
+Jawa Barat,Bawang Putih,2023-11,37865.38,38604.84,-1.92,Fluktuasi Normal,38663.15
+Jawa Barat,Bawang Putih,2023-12,38743.1,37865.38,2.32,Fluktuasi Normal,38404.44
+Jawa Barat,Bawang Putih,2024-01,40416.13,38743.1,4.32,Fluktuasi Normal,39008.2
+Jawa Barat,Bawang Putih,2024-02,39776.79,40416.13,-1.58,Fluktuasi Normal,39645.34
+Jawa Barat,Bawang Putih,2024-03,41830.65,39776.79,5.16,Fluktuasi Normal,40674.52
+Jawa Barat,Bawang Putih,2024-04,44488.46,41830.65,6.35,Fluktuasi Normal,42031.97
+Jawa Barat,Bawang Putih,2024-05,44740.74,44488.46,0.57,Fluktuasi Normal,43686.62
+Jawa Barat,Bawang Putih,2024-06,43751.67,44740.74,-2.21,Fluktuasi Normal,44326.96
+Jawa Barat,Bawang Putih,2024-07,42095.16,43751.67,-3.79,Fluktuasi Normal,43529.19
+Jawa Barat,Bawang Putih,2024-08,41810.34,42095.16,-0.68,Fluktuasi Normal,42552.39
+Jawa Barat,Bawang Putih,2024-09,41746.67,41810.34,-0.15,Fluktuasi Normal,41884.06
+Jawa Barat,Bawang Putih,2024-10,42416.13,41746.67,1.6,Fluktuasi Normal,41991.05
+Jawa Barat,Bawang Putih,2024-11,43245.0,42416.13,1.95,Fluktuasi Normal,42469.27
+Jawa Barat,Bawang Putih,2024-12,43969.35,43245.0,1.67,Fluktuasi Normal,43210.16
+Jawa Barat,Bawang Putih,2025-01,43766.67,43969.35,-0.46,Fluktuasi Normal,43660.34
+Jawa Barat,Bawang Putih,2025-02,44151.79,43766.67,0.88,Fluktuasi Normal,43962.6
+Jawa Barat,Bawang Putih,2025-03,47095.0,44151.79,6.67,Fluktuasi Normal,45004.49
+Jawa Barat,Bawang Putih,2025-04,48801.72,47095.0,3.62,Fluktuasi Normal,46682.84
+Jawa Barat,Bawang Putih,2025-05,45496.43,48801.72,-6.77,Fluktuasi Normal,47131.05
+Jawa Barat,Bawang Putih,2025-06,43295.0,45496.43,-4.84,Fluktuasi Normal,45864.38
+Jawa Barat,Bawang Putih,2025-07,41214.52,43295.0,-4.81,Fluktuasi Normal,43335.32
+Jawa Barat,Bawang Putih,2025-08,40638.71,41214.52,-1.4,Fluktuasi Normal,41716.08
+Jawa Barat,Bawang Putih,2025-09,39636.67,40638.71,-2.47,Fluktuasi Normal,40496.63
+Jawa Barat,Bawang Putih,2025-10,38881.48,39636.67,-1.91,Fluktuasi Normal,39718.95
+Jawa Barat,Bawang Putih,2025-11,38581.67,38881.48,-0.77,Fluktuasi Normal,39033.27
+Jawa Barat,Bawang Putih,2025-12,39074.14,38581.67,1.28,Fluktuasi Normal,38845.76
+Jawa Barat,Bawang Putih,2026-01,39427.59,39074.14,0.9,Fluktuasi Normal,39027.8
+Jawa Barat,Bawang Putih,2026-02,39995.83,39427.59,1.44,Fluktuasi Normal,39499.19
+Jawa Barat,Beras,2022-01,11337.5,,,Data Awal (Baseline),11337.5
+Jawa Barat,Beras,2022-02,11350.0,11337.5,0.11,Fluktuasi Normal,11343.75
+Jawa Barat,Beras,2022-03,11351.79,11350.0,0.02,Fluktuasi Normal,11346.43
+Jawa Barat,Beras,2022-04,11376.09,11351.79,0.21,Fluktuasi Normal,11359.29
+Jawa Barat,Beras,2022-05,11350.0,11376.09,-0.23,Fluktuasi Normal,11359.29
+Jawa Barat,Beras,2022-06,11338.46,11350.0,-0.1,Fluktuasi Normal,11354.85
+Jawa Barat,Beras,2022-07,11300.0,11338.46,-0.34,Fluktuasi Normal,11329.49
+Jawa Barat,Beras,2022-08,11339.29,11300.0,0.35,Fluktuasi Normal,11325.92
+Jawa Barat,Beras,2022-09,11451.92,11339.29,0.99,Fluktuasi Normal,11363.74
+Jawa Barat,Beras,2022-10,11496.55,11451.92,0.39,Fluktuasi Normal,11429.25
+Jawa Barat,Beras,2022-11,11556.67,11496.55,0.52,Fluktuasi Normal,11501.71
+Jawa Barat,Beras,2022-12,11737.93,11556.67,1.57,Fluktuasi Normal,11597.05
+Jawa Barat,Beras,2023-01,11938.71,11737.93,1.71,Fluktuasi Normal,11744.44
+Jawa Barat,Beras,2023-02,12385.42,11938.71,3.74,Fluktuasi Normal,12020.69
+Jawa Barat,Beras,2023-03,12453.57,12385.42,0.55,Fluktuasi Normal,12259.23
+Jawa Barat,Beras,2023-04,12455.56,12453.57,0.02,Fluktuasi Normal,12431.52
+Jawa Barat,Beras,2023-05,12451.72,12455.56,-0.03,Fluktuasi Normal,12453.62
+Jawa Barat,Beras,2023-06,12406.0,12451.72,-0.37,Fluktuasi Normal,12437.76
+Jawa Barat,Beras,2023-07,12424.14,12406.0,0.15,Fluktuasi Normal,12427.29
+Jawa Barat,Beras,2023-08,12633.33,12424.14,1.68,Fluktuasi Normal,12487.82
+Jawa Barat,Beras,2023-09,13711.54,12633.33,8.53,Fluktuasi Normal,12923.0
+Jawa Barat,Beras,2023-10,13938.71,13711.54,1.66,Fluktuasi Normal,13427.86
+Jawa Barat,Beras,2023-11,13936.54,13938.71,-0.02,Fluktuasi Normal,13862.26
+Jawa Barat,Beras,2023-12,13982.76,13936.54,0.33,Fluktuasi Normal,13952.67
+Jawa Barat,Beras,2024-01,14259.68,13982.76,1.98,Fluktuasi Normal,14059.66
+Jawa Barat,Beras,2024-02,15442.86,14259.68,8.3,Fluktuasi Normal,14561.77
+Jawa Barat,Beras,2024-03,15753.23,15442.86,2.01,Fluktuasi Normal,15151.92
+Jawa Barat,Beras,2024-04,15234.62,15753.23,-3.29,Fluktuasi Normal,15476.9
+Jawa Barat,Beras,2024-05,14618.52,15234.62,-4.04,Fluktuasi Normal,15202.12
+Jawa Barat,Beras,2024-06,14501.67,14618.52,-0.8,Fluktuasi Normal,14784.94
+Jawa Barat,Beras,2024-07,14585.48,14501.67,0.58,Fluktuasi Normal,14568.56
+Jawa Barat,Beras,2024-08,14589.66,14585.48,0.03,Fluktuasi Normal,14558.94
+Jawa Barat,Beras,2024-09,14590.0,14589.66,0.0,Fluktuasi Normal,14588.38
+Jawa Barat,Beras,2024-10,14550.0,14590.0,-0.27,Fluktuasi Normal,14576.55
+Jawa Barat,Beras,2024-11,14535.0,14550.0,-0.1,Fluktuasi Normal,14558.33
+Jawa Barat,Beras,2024-12,14572.58,14535.0,0.26,Fluktuasi Normal,14552.53
+Jawa Barat,Beras,2025-01,14625.93,14572.58,0.37,Fluktuasi Normal,14577.84
+Jawa Barat,Beras,2025-02,14558.93,14625.93,-0.46,Fluktuasi Normal,14585.81
+Jawa Barat,Beras,2025-03,14600.0,14558.93,0.28,Fluktuasi Normal,14594.95
+Jawa Barat,Beras,2025-04,14600.0,14600.0,0.0,Fluktuasi Normal,14586.31
+Jawa Barat,Beras,2025-05,14600.0,14600.0,0.0,Fluktuasi Normal,14600.0
+Jawa Barat,Beras,2025-06,14685.0,14600.0,0.58,Fluktuasi Normal,14628.33
+Jawa Barat,Beras,2025-07,14790.32,14685.0,0.72,Fluktuasi Normal,14691.77
+Jawa Barat,Beras,2025-08,14833.87,14790.32,0.29,Fluktuasi Normal,14769.73
+Jawa Barat,Beras,2025-09,14876.67,14833.87,0.29,Fluktuasi Normal,14833.62
+Jawa Barat,Beras,2025-10,14885.19,14876.67,0.06,Fluktuasi Normal,14865.24
+Jawa Barat,Beras,2025-11,14820.0,14885.19,-0.44,Fluktuasi Normal,14860.62
+Jawa Barat,Beras,2025-12,14800.0,14820.0,-0.13,Fluktuasi Normal,14835.06
+Jawa Barat,Beras,2026-01,14827.59,14800.0,0.19,Fluktuasi Normal,14815.86
+Jawa Barat,Beras,2026-02,14858.33,14827.59,0.21,Fluktuasi Normal,14828.64
+Jawa Barat,Cabai Merah,2022-01,33339.29,,,Data Awal (Baseline),33339.29
+Jawa Barat,Cabai Merah,2022-02,36042.0,33339.29,8.11,Fluktuasi Normal,34690.65
+Jawa Barat,Cabai Merah,2022-03,47932.14,36042.0,32.99,Lonjakan Ekstrem (Inflasi Tinggi),39104.48
+Jawa Barat,Cabai Merah,2022-04,47417.39,47932.14,-1.07,Fluktuasi Normal,43797.18
+Jawa Barat,Cabai Merah,2022-05,50907.5,47417.39,7.36,Fluktuasi Normal,48752.34
+Jawa Barat,Cabai Merah,2022-06,74000.0,50907.5,45.36,Lonjakan Ekstrem (Inflasi Tinggi),57441.63
+Jawa Barat,Cabai Merah,2022-07,92440.74,74000.0,24.92,Lonjakan Ekstrem (Inflasi Tinggi),72449.41
+Jawa Barat,Cabai Merah,2022-08,69180.36,92440.74,-25.16,Penurunan Signifikan (Deflasi),78540.37
+Jawa Barat,Cabai Merah,2022-09,65469.23,69180.36,-5.36,Fluktuasi Normal,75696.78
+Jawa Barat,Cabai Merah,2022-10,50860.34,65469.23,-22.31,Penurunan Signifikan (Deflasi),61836.64
+Jawa Barat,Cabai Merah,2022-11,36238.33,50860.34,-28.75,Penurunan Signifikan (Deflasi),50855.97
+Jawa Barat,Cabai Merah,2022-12,36413.79,36238.33,0.48,Fluktuasi Normal,41170.82
+Jawa Barat,Cabai Merah,2023-01,41964.52,36413.79,15.24,Lonjakan Ekstrem (Inflasi Tinggi),38205.55
+Jawa Barat,Cabai Merah,2023-02,44800.0,41964.52,6.76,Fluktuasi Normal,41059.44
+Jawa Barat,Cabai Merah,2023-03,42976.79,44800.0,-4.07,Fluktuasi Normal,43247.1
+Jawa Barat,Cabai Merah,2023-04,44362.96,42976.79,3.23,Fluktuasi Normal,44046.58
+Jawa Barat,Cabai Merah,2023-05,42144.83,44362.96,-5.0,Fluktuasi Normal,43161.53
+Jawa Barat,Cabai Merah,2023-06,40534.0,42144.83,-3.82,Fluktuasi Normal,42347.26
+Jawa Barat,Cabai Merah,2023-07,44481.03,40534.0,9.74,Fluktuasi Normal,42386.62
+Jawa Barat,Cabai Merah,2023-08,46353.7,44481.03,4.21,Fluktuasi Normal,43789.58
+Jawa Barat,Cabai Merah,2023-09,43015.38,46353.7,-7.2,Fluktuasi Normal,44616.7
+Jawa Barat,Cabai Merah,2023-10,47380.65,43015.38,10.15,Lonjakan Ekstrem (Inflasi Tinggi),45583.24
+Jawa Barat,Cabai Merah,2023-11,74611.54,47380.65,57.47,Lonjakan Ekstrem (Inflasi Tinggi),55002.52
+Jawa Barat,Cabai Merah,2023-12,87841.38,74611.54,17.73,Lonjakan Ekstrem (Inflasi Tinggi),69944.52
+Jawa Barat,Cabai Merah,2024-01,73464.52,87841.38,-16.37,Penurunan Signifikan (Deflasi),78639.15
+Jawa Barat,Cabai Merah,2024-02,87267.86,73464.52,18.79,Lonjakan Ekstrem (Inflasi Tinggi),82857.92
+Jawa Barat,Cabai Merah,2024-03,72022.58,87267.86,-17.47,Penurunan Signifikan (Deflasi),77584.99
+Jawa Barat,Cabai Merah,2024-04,54044.23,72022.58,-24.96,Penurunan Signifikan (Deflasi),71111.56
+Jawa Barat,Cabai Merah,2024-05,53472.22,54044.23,-1.06,Fluktuasi Normal,59846.34
+Jawa Barat,Cabai Merah,2024-06,55483.33,53472.22,3.76,Fluktuasi Normal,54333.26
+Jawa Barat,Cabai Merah,2024-07,45050.0,55483.33,-18.8,Penurunan Signifikan (Deflasi),51335.18
+Jawa Barat,Cabai Merah,2024-08,43598.28,45050.0,-3.22,Fluktuasi Normal,48043.87
+Jawa Barat,Cabai Merah,2024-09,33946.67,43598.28,-22.14,Penurunan Signifikan (Deflasi),40864.98
+Jawa Barat,Cabai Merah,2024-10,30611.29,33946.67,-9.83,Fluktuasi Normal,36052.08
+Jawa Barat,Cabai Merah,2024-11,31165.0,30611.29,1.81,Fluktuasi Normal,31907.65
+Jawa Barat,Cabai Merah,2024-12,44937.1,31165.0,44.19,Lonjakan Ekstrem (Inflasi Tinggi),35571.13
+Jawa Barat,Cabai Merah,2025-01,66892.59,44937.1,48.86,Lonjakan Ekstrem (Inflasi Tinggi),47664.9
+Jawa Barat,Cabai Merah,2025-02,57021.43,66892.59,-14.76,Penurunan Signifikan (Deflasi),56283.71
+Jawa Barat,Cabai Merah,2025-03,60016.67,57021.43,5.25,Fluktuasi Normal,61310.23
+Jawa Barat,Cabai Merah,2025-04,56250.0,60016.67,-6.28,Fluktuasi Normal,57762.7
+Jawa Barat,Cabai Merah,2025-05,42848.21,56250.0,-23.83,Penurunan Signifikan (Deflasi),53038.29
+Jawa Barat,Cabai Merah,2025-06,49963.33,42848.21,16.61,Lonjakan Ekstrem (Inflasi Tinggi),49687.18
+Jawa Barat,Cabai Merah,2025-07,45437.1,49963.33,-9.06,Fluktuasi Normal,46082.88
+Jawa Barat,Cabai Merah,2025-08,43393.55,45437.1,-4.5,Fluktuasi Normal,46264.66
+Jawa Barat,Cabai Merah,2025-09,56396.67,43393.55,29.97,Lonjakan Ekstrem (Inflasi Tinggi),48409.11
+Jawa Barat,Cabai Merah,2025-10,60846.3,56396.67,7.89,Fluktuasi Normal,53545.51
+Jawa Barat,Cabai Merah,2025-11,63940.0,60846.3,5.08,Fluktuasi Normal,60394.32
+Jawa Barat,Cabai Merah,2025-12,55927.59,63940.0,-12.53,Penurunan Signifikan (Deflasi),60237.96
+Jawa Barat,Cabai Merah,2026-01,38801.72,55927.59,-30.62,Penurunan Signifikan (Deflasi),52889.77
+Jawa Barat,Cabai Merah,2026-02,40895.83,38801.72,5.4,Fluktuasi Normal,45208.38
+Jawa Barat,Cabai Rawit,2022-01,55962.5,,,Data Awal (Baseline),55962.5
+Jawa Barat,Cabai Rawit,2022-02,40858.0,55962.5,-26.99,Penurunan Signifikan (Deflasi),48410.25
+Jawa Barat,Cabai Rawit,2022-03,51114.29,40858.0,25.1,Lonjakan Ekstrem (Inflasi Tinggi),49311.6
+Jawa Barat,Cabai Rawit,2022-04,44317.39,51114.29,-13.3,Penurunan Signifikan (Deflasi),45429.89
+Jawa Barat,Cabai Rawit,2022-05,47400.0,44317.39,6.96,Fluktuasi Normal,47610.56
+Jawa Barat,Cabai Rawit,2022-06,83511.54,47400.0,76.18,Lonjakan Ekstrem (Inflasi Tinggi),58409.64
+Jawa Barat,Cabai Rawit,2022-07,84725.93,83511.54,1.45,Fluktuasi Normal,71879.16
+Jawa Barat,Cabai Rawit,2022-08,57878.57,84725.93,-31.69,Penurunan Signifikan (Deflasi),75372.01
+Jawa Barat,Cabai Rawit,2022-09,55075.0,57878.57,-4.84,Fluktuasi Normal,65893.17
+Jawa Barat,Cabai Rawit,2022-10,45724.14,55075.0,-16.98,Penurunan Signifikan (Deflasi),52892.57
+Jawa Barat,Cabai Rawit,2022-11,34071.67,45724.14,-25.48,Penurunan Signifikan (Deflasi),44956.94
+Jawa Barat,Cabai Rawit,2022-12,48662.07,34071.67,42.82,Lonjakan Ekstrem (Inflasi Tinggi),42819.29
+Jawa Barat,Cabai Rawit,2023-01,60701.61,48662.07,24.74,Lonjakan Ekstrem (Inflasi Tinggi),47811.78
+Jawa Barat,Cabai Rawit,2023-02,58385.42,60701.61,-3.82,Fluktuasi Normal,55916.37
+Jawa Barat,Cabai Rawit,2023-03,61882.14,58385.42,5.99,Fluktuasi Normal,60323.06
+Jawa Barat,Cabai Rawit,2023-04,45775.93,61882.14,-26.03,Penurunan Signifikan (Deflasi),55347.83
+Jawa Barat,Cabai Rawit,2023-05,39939.66,45775.93,-12.75,Penurunan Signifikan (Deflasi),49199.24
+Jawa Barat,Cabai Rawit,2023-06,43730.0,39939.66,9.49,Fluktuasi Normal,43148.53
+Jawa Barat,Cabai Rawit,2023-07,40227.59,43730.0,-8.01,Fluktuasi Normal,41299.08
+Jawa Barat,Cabai Rawit,2023-08,42835.19,40227.59,6.48,Fluktuasi Normal,42264.26
+Jawa Barat,Cabai Rawit,2023-09,39642.31,42835.19,-7.45,Fluktuasi Normal,40901.7
+Jawa Barat,Cabai Rawit,2023-10,51537.1,39642.31,30.01,Lonjakan Ekstrem (Inflasi Tinggi),44671.53
+Jawa Barat,Cabai Rawit,2023-11,76142.31,51537.1,47.74,Lonjakan Ekstrem (Inflasi Tinggi),55773.91
+Jawa Barat,Cabai Rawit,2023-12,70503.45,76142.31,-7.41,Fluktuasi Normal,66060.95
+Jawa Barat,Cabai Rawit,2024-01,52035.48,70503.45,-26.19,Penurunan Signifikan (Deflasi),66227.08
+Jawa Barat,Cabai Rawit,2024-02,54128.57,52035.48,4.02,Fluktuasi Normal,58889.17
+Jawa Barat,Cabai Rawit,2024-03,55524.19,54128.57,2.58,Fluktuasi Normal,53896.08
+Jawa Barat,Cabai Rawit,2024-04,45034.62,55524.19,-18.89,Penurunan Signifikan (Deflasi),51562.46
+Jawa Barat,Cabai Rawit,2024-05,42238.89,45034.62,-6.21,Fluktuasi Normal,47599.23
+Jawa Barat,Cabai Rawit,2024-06,45400.0,42238.89,7.48,Fluktuasi Normal,44224.5
+Jawa Barat,Cabai Rawit,2024-07,60875.81,45400.0,34.09,Lonjakan Ekstrem (Inflasi Tinggi),49504.9
+Jawa Barat,Cabai Rawit,2024-08,59341.38,60875.81,-2.52,Fluktuasi Normal,55205.73
+Jawa Barat,Cabai Rawit,2024-09,40926.67,59341.38,-31.03,Penurunan Signifikan (Deflasi),53714.62
+Jawa Barat,Cabai Rawit,2024-10,42259.68,40926.67,3.26,Fluktuasi Normal,47509.24
+Jawa Barat,Cabai Rawit,2024-11,35970.0,42259.68,-14.88,Penurunan Signifikan (Deflasi),39718.78
+Jawa Barat,Cabai Rawit,2024-12,46546.77,35970.0,29.4,Lonjakan Ekstrem (Inflasi Tinggi),41592.15
+Jawa Barat,Cabai Rawit,2025-01,84057.41,46546.77,80.59,Lonjakan Ekstrem (Inflasi Tinggi),55524.73
+Jawa Barat,Cabai Rawit,2025-02,72844.64,84057.41,-13.34,Penurunan Signifikan (Deflasi),67816.27
+Jawa Barat,Cabai Rawit,2025-03,82526.67,72844.64,13.29,Lonjakan Ekstrem (Inflasi Tinggi),79809.57
+Jawa Barat,Cabai Rawit,2025-04,68686.21,82526.67,-16.77,Penurunan Signifikan (Deflasi),74685.84
+Jawa Barat,Cabai Rawit,2025-05,39730.36,68686.21,-42.16,Penurunan Signifikan (Deflasi),63647.75
+Jawa Barat,Cabai Rawit,2025-06,52616.67,39730.36,32.43,Lonjakan Ekstrem (Inflasi Tinggi),53677.75
+Jawa Barat,Cabai Rawit,2025-07,57487.1,52616.67,9.26,Fluktuasi Normal,49944.71
+Jawa Barat,Cabai Rawit,2025-08,42651.61,57487.1,-25.81,Penurunan Signifikan (Deflasi),50918.46
+Jawa Barat,Cabai Rawit,2025-09,41548.33,42651.61,-2.59,Fluktuasi Normal,47229.01
+Jawa Barat,Cabai Rawit,2025-10,37346.3,41548.33,-10.11,Penurunan Signifikan (Deflasi),40515.41
+Jawa Barat,Cabai Rawit,2025-11,40848.33,37346.3,9.38,Fluktuasi Normal,39914.32
+Jawa Barat,Cabai Rawit,2025-12,73137.93,40848.33,79.05,Lonjakan Ekstrem (Inflasi Tinggi),50444.19
+Jawa Barat,Cabai Rawit,2026-01,58912.07,73137.93,-19.45,Penurunan Signifikan (Deflasi),57632.78
+Jawa Barat,Cabai Rawit,2026-02,69225.0,58912.07,17.51,Lonjakan Ekstrem (Inflasi Tinggi),67091.67
+Jawa Barat,Daging Ayam,2022-01,38192.86,,,Data Awal (Baseline),38192.86
+Jawa Barat,Daging Ayam,2022-02,34188.0,38192.86,-10.49,Penurunan Signifikan (Deflasi),36190.43
+Jawa Barat,Daging Ayam,2022-03,35494.64,34188.0,3.82,Fluktuasi Normal,35958.5
+Jawa Barat,Daging Ayam,2022-04,38880.43,35494.64,9.54,Fluktuasi Normal,36187.69
+Jawa Barat,Daging Ayam,2022-05,36295.0,38880.43,-6.65,Fluktuasi Normal,36890.02
+Jawa Barat,Daging Ayam,2022-06,37496.15,36295.0,3.31,Fluktuasi Normal,37557.19
+Jawa Barat,Daging Ayam,2022-07,37533.33,37496.15,0.1,Fluktuasi Normal,37108.16
+Jawa Barat,Daging Ayam,2022-08,35205.36,37533.33,-6.2,Fluktuasi Normal,36744.95
+Jawa Barat,Daging Ayam,2022-09,34623.08,35205.36,-1.65,Fluktuasi Normal,35787.26
+Jawa Barat,Daging Ayam,2022-10,33181.03,34623.08,-4.16,Fluktuasi Normal,34336.49
+Jawa Barat,Daging Ayam,2022-11,33670.0,33181.03,1.47,Fluktuasi Normal,33824.7
+Jawa Barat,Daging Ayam,2022-12,35027.59,33670.0,4.03,Fluktuasi Normal,33959.54
+Jawa Barat,Daging Ayam,2023-01,33993.55,35027.59,-2.95,Fluktuasi Normal,34230.38
+Jawa Barat,Daging Ayam,2023-02,33968.75,33993.55,-0.07,Fluktuasi Normal,34329.96
+Jawa Barat,Daging Ayam,2023-03,34496.43,33968.75,1.55,Fluktuasi Normal,34152.91
+Jawa Barat,Daging Ayam,2023-04,35931.48,34496.43,4.16,Fluktuasi Normal,34798.89
+Jawa Barat,Daging Ayam,2023-05,36936.21,35931.48,2.8,Fluktuasi Normal,35788.04
+Jawa Barat,Daging Ayam,2023-06,39694.0,36936.21,7.47,Fluktuasi Normal,37520.56
+Jawa Barat,Daging Ayam,2023-07,40603.45,39694.0,2.29,Fluktuasi Normal,39077.89
+Jawa Barat,Daging Ayam,2023-08,38190.74,40603.45,-5.94,Fluktuasi Normal,39496.06
+Jawa Barat,Daging Ayam,2023-09,36801.92,38190.74,-3.64,Fluktuasi Normal,38532.04
+Jawa Barat,Daging Ayam,2023-10,35798.39,36801.92,-2.73,Fluktuasi Normal,36930.35
+Jawa Barat,Daging Ayam,2023-11,35248.08,35798.39,-1.54,Fluktuasi Normal,35949.46
+Jawa Barat,Daging Ayam,2023-12,34796.55,35248.08,-1.28,Fluktuasi Normal,35281.01
+Jawa Barat,Daging Ayam,2024-01,34545.16,34796.55,-0.72,Fluktuasi Normal,34863.26
+Jawa Barat,Daging Ayam,2024-02,36239.29,34545.16,4.9,Fluktuasi Normal,35193.67
+Jawa Barat,Daging Ayam,2024-03,39309.68,36239.29,8.47,Fluktuasi Normal,36698.04
+Jawa Barat,Daging Ayam,2024-04,38790.38,39309.68,-1.32,Fluktuasi Normal,38113.12
+Jawa Barat,Daging Ayam,2024-05,37624.07,38790.38,-3.01,Fluktuasi Normal,38574.71
+Jawa Barat,Daging Ayam,2024-06,36653.33,37624.07,-2.58,Fluktuasi Normal,37689.26
+Jawa Barat,Daging Ayam,2024-07,36541.94,36653.33,-0.3,Fluktuasi Normal,36939.78
+Jawa Barat,Daging Ayam,2024-08,34663.79,36541.94,-5.14,Fluktuasi Normal,35953.02
+Jawa Barat,Daging Ayam,2024-09,34273.33,34663.79,-1.13,Fluktuasi Normal,35159.69
+Jawa Barat,Daging Ayam,2024-10,36329.03,34273.33,6.0,Fluktuasi Normal,35088.72
+Jawa Barat,Daging Ayam,2024-11,36538.33,36329.03,0.58,Fluktuasi Normal,35713.56
+Jawa Barat,Daging Ayam,2024-12,36495.16,36538.33,-0.12,Fluktuasi Normal,36454.17
+Jawa Barat,Daging Ayam,2025-01,36570.37,36495.16,0.21,Fluktuasi Normal,36534.62
+Jawa Barat,Daging Ayam,2025-02,35614.29,36570.37,-2.61,Fluktuasi Normal,36226.61
+Jawa Barat,Daging Ayam,2025-03,36403.33,35614.29,2.22,Fluktuasi Normal,36196.0
+Jawa Barat,Daging Ayam,2025-04,34379.31,36403.33,-5.56,Fluktuasi Normal,35465.64
+Jawa Barat,Daging Ayam,2025-05,33503.57,34379.31,-2.55,Fluktuasi Normal,34762.07
+Jawa Barat,Daging Ayam,2025-06,34746.67,33503.57,3.71,Fluktuasi Normal,34209.85
+Jawa Barat,Daging Ayam,2025-07,34485.48,34746.67,-0.75,Fluktuasi Normal,34245.24
+Jawa Barat,Daging Ayam,2025-08,34335.48,34485.48,-0.43,Fluktuasi Normal,34522.54
+Jawa Barat,Daging Ayam,2025-09,38963.33,34335.48,13.48,Lonjakan Ekstrem (Inflasi Tinggi),35928.1
+Jawa Barat,Daging Ayam,2025-10,38227.78,38963.33,-1.89,Fluktuasi Normal,37175.53
+Jawa Barat,Daging Ayam,2025-11,37696.67,38227.78,-1.39,Fluktuasi Normal,38295.93
+Jawa Barat,Daging Ayam,2025-12,40487.93,37696.67,7.4,Fluktuasi Normal,38804.13
+Jawa Barat,Daging Ayam,2026-01,37120.69,40487.93,-8.32,Fluktuasi Normal,38435.1
+Jawa Barat,Daging Ayam,2026-02,38604.17,37120.69,4.0,Fluktuasi Normal,38737.6
+Jawa Barat,Daging Sapi,2022-01,132000.0,,,Data Awal (Baseline),132000.0
+Jawa Barat,Daging Sapi,2022-02,132316.0,132000.0,0.24,Fluktuasi Normal,132158.0
+Jawa Barat,Daging Sapi,2022-03,135921.43,132316.0,2.72,Fluktuasi Normal,133412.48
+Jawa Barat,Daging Sapi,2022-04,142730.43,135921.43,5.01,Fluktuasi Normal,136989.29
+Jawa Barat,Daging Sapi,2022-05,145630.0,142730.43,2.03,Fluktuasi Normal,141427.29
+Jawa Barat,Daging Sapi,2022-06,142757.69,145630.0,-1.97,Fluktuasi Normal,143706.04
+Jawa Barat,Daging Sapi,2022-07,142312.96,142757.69,-0.31,Fluktuasi Normal,143566.88
+Jawa Barat,Daging Sapi,2022-08,140998.21,142312.96,-0.92,Fluktuasi Normal,142022.95
+Jawa Barat,Daging Sapi,2022-09,140511.54,140998.21,-0.35,Fluktuasi Normal,141274.24
+Jawa Barat,Daging Sapi,2022-10,140355.17,140511.54,-0.11,Fluktuasi Normal,140621.64
+Jawa Barat,Daging Sapi,2022-11,140200.0,140355.17,-0.11,Fluktuasi Normal,140355.57
+Jawa Barat,Daging Sapi,2022-12,140205.17,140200.0,0.0,Fluktuasi Normal,140253.45
+Jawa Barat,Daging Sapi,2023-01,140300.0,140205.17,0.07,Fluktuasi Normal,140235.06
+Jawa Barat,Daging Sapi,2023-02,140072.92,140300.0,-0.16,Fluktuasi Normal,140192.7
+Jawa Barat,Daging Sapi,2023-03,140264.29,140072.92,0.14,Fluktuasi Normal,140212.4
+Jawa Barat,Daging Sapi,2023-04,143783.33,140264.29,2.51,Fluktuasi Normal,141373.51
+Jawa Barat,Daging Sapi,2023-05,141479.31,143783.33,-1.6,Fluktuasi Normal,141842.31
+Jawa Barat,Daging Sapi,2023-06,140790.0,141479.31,-0.49,Fluktuasi Normal,142017.55
+Jawa Barat,Daging Sapi,2023-07,140579.31,140790.0,-0.15,Fluktuasi Normal,140949.54
+Jawa Barat,Daging Sapi,2023-08,140507.41,140579.31,-0.05,Fluktuasi Normal,140625.57
+Jawa Barat,Daging Sapi,2023-09,140271.15,140507.41,-0.17,Fluktuasi Normal,140452.62
+Jawa Barat,Daging Sapi,2023-10,140072.58,140271.15,-0.14,Fluktuasi Normal,140283.71
+Jawa Barat,Daging Sapi,2023-11,140080.77,140072.58,0.01,Fluktuasi Normal,140141.5
+Jawa Barat,Daging Sapi,2023-12,139656.9,140080.77,-0.3,Fluktuasi Normal,139936.75
+Jawa Barat,Daging Sapi,2024-01,139461.29,139656.9,-0.14,Fluktuasi Normal,139732.99
+Jawa Barat,Daging Sapi,2024-02,139151.79,139461.29,-0.22,Fluktuasi Normal,139423.33
+Jawa Barat,Daging Sapi,2024-03,140841.94,139151.79,1.21,Fluktuasi Normal,139818.34
+Jawa Barat,Daging Sapi,2024-04,142884.62,140841.94,1.45,Fluktuasi Normal,140959.45
+Jawa Barat,Daging Sapi,2024-05,141170.37,142884.62,-1.2,Fluktuasi Normal,141632.31
+Jawa Barat,Daging Sapi,2024-06,140920.0,141170.37,-0.18,Fluktuasi Normal,141658.33
+Jawa Barat,Daging Sapi,2024-07,140896.77,140920.0,-0.02,Fluktuasi Normal,140995.71
+Jawa Barat,Daging Sapi,2024-08,140803.45,140896.77,-0.07,Fluktuasi Normal,140873.41
+Jawa Barat,Daging Sapi,2024-09,140353.33,140803.45,-0.32,Fluktuasi Normal,140684.52
+Jawa Barat,Daging Sapi,2024-10,140017.74,140353.33,-0.24,Fluktuasi Normal,140391.51
+Jawa Barat,Daging Sapi,2024-11,139983.33,140017.74,-0.02,Fluktuasi Normal,140118.13
+Jawa Barat,Daging Sapi,2024-12,139943.55,139983.33,-0.03,Fluktuasi Normal,139981.54
+Jawa Barat,Daging Sapi,2025-01,140066.67,139943.55,0.09,Fluktuasi Normal,139997.85
+Jawa Barat,Daging Sapi,2025-02,139503.57,140066.67,-0.4,Fluktuasi Normal,139837.93
+Jawa Barat,Daging Sapi,2025-03,144090.0,139503.57,3.29,Fluktuasi Normal,141220.08
+Jawa Barat,Daging Sapi,2025-04,143427.59,144090.0,-0.46,Fluktuasi Normal,142340.39
+Jawa Barat,Daging Sapi,2025-05,139848.21,143427.59,-2.5,Fluktuasi Normal,142455.27
+Jawa Barat,Daging Sapi,2025-06,140016.67,139848.21,0.12,Fluktuasi Normal,141097.49
+Jawa Barat,Daging Sapi,2025-07,138962.9,140016.67,-0.75,Fluktuasi Normal,139609.26
+Jawa Barat,Daging Sapi,2025-08,138750.0,138962.9,-0.15,Fluktuasi Normal,139243.19
+Jawa Barat,Daging Sapi,2025-09,138750.0,138750.0,0.0,Fluktuasi Normal,138820.97
+Jawa Barat,Daging Sapi,2025-10,138633.33,138750.0,-0.08,Fluktuasi Normal,138711.11
+Jawa Barat,Daging Sapi,2025-11,138600.0,138633.33,-0.02,Fluktuasi Normal,138661.11
+Jawa Barat,Daging Sapi,2025-12,138965.52,138600.0,0.26,Fluktuasi Normal,138732.95
+Jawa Barat,Daging Sapi,2026-01,139975.86,138965.52,0.73,Fluktuasi Normal,139180.46
+Jawa Barat,Daging Sapi,2026-02,141266.67,139975.86,0.92,Fluktuasi Normal,140069.35
+Jawa Barat,Gula Pasir,2022-01,14173.21,,,Data Awal (Baseline),14173.21
+Jawa Barat,Gula Pasir,2022-02,14500.0,14173.21,2.31,Fluktuasi Normal,14336.6
+Jawa Barat,Gula Pasir,2022-03,14641.07,14500.0,0.97,Fluktuasi Normal,14438.09
+Jawa Barat,Gula Pasir,2022-04,14917.39,14641.07,1.89,Fluktuasi Normal,14686.15
+Jawa Barat,Gula Pasir,2022-05,15062.5,14917.39,0.97,Fluktuasi Normal,14873.65
+Jawa Barat,Gula Pasir,2022-06,14994.23,15062.5,-0.45,Fluktuasi Normal,14991.37
+Jawa Barat,Gula Pasir,2022-07,14879.63,14994.23,-0.76,Fluktuasi Normal,14978.79
+Jawa Barat,Gula Pasir,2022-08,14726.79,14879.63,-1.03,Fluktuasi Normal,14866.88
+Jawa Barat,Gula Pasir,2022-09,14540.38,14726.79,-1.27,Fluktuasi Normal,14715.6
+Jawa Barat,Gula Pasir,2022-10,14543.1,14540.38,0.02,Fluktuasi Normal,14603.42
+Jawa Barat,Gula Pasir,2022-11,14540.0,14543.1,-0.02,Fluktuasi Normal,14541.16
+Jawa Barat,Gula Pasir,2022-12,14565.52,14540.0,0.18,Fluktuasi Normal,14549.54
+Jawa Barat,Gula Pasir,2023-01,14583.87,14565.52,0.13,Fluktuasi Normal,14563.13
+Jawa Barat,Gula Pasir,2023-02,14618.75,14583.87,0.24,Fluktuasi Normal,14589.38
+Jawa Barat,Gula Pasir,2023-03,14608.93,14618.75,-0.07,Fluktuasi Normal,14603.85
+Jawa Barat,Gula Pasir,2023-04,14709.26,14608.93,0.69,Fluktuasi Normal,14645.65
+Jawa Barat,Gula Pasir,2023-05,14831.03,14709.26,0.83,Fluktuasi Normal,14716.41
+Jawa Barat,Gula Pasir,2023-06,14986.0,14831.03,1.04,Fluktuasi Normal,14842.1
+Jawa Barat,Gula Pasir,2023-07,15022.41,14986.0,0.24,Fluktuasi Normal,14946.48
+Jawa Barat,Gula Pasir,2023-08,15148.15,15022.41,0.84,Fluktuasi Normal,15052.19
+Jawa Barat,Gula Pasir,2023-09,15292.31,15148.15,0.95,Fluktuasi Normal,15154.29
+Jawa Barat,Gula Pasir,2023-10,15888.71,15292.31,3.9,Fluktuasi Normal,15443.06
+Jawa Barat,Gula Pasir,2023-11,16888.46,15888.71,6.29,Fluktuasi Normal,16023.16
+Jawa Barat,Gula Pasir,2023-12,17410.34,16888.46,3.09,Fluktuasi Normal,16729.17
+Jawa Barat,Gula Pasir,2024-01,17443.55,17410.34,0.19,Fluktuasi Normal,17247.45
+Jawa Barat,Gula Pasir,2024-02,17475.0,17443.55,0.18,Fluktuasi Normal,17442.96
+Jawa Barat,Gula Pasir,2024-03,17669.35,17475.0,1.11,Fluktuasi Normal,17529.3
+Jawa Barat,Gula Pasir,2024-04,18094.23,17669.35,2.4,Fluktuasi Normal,17746.19
+Jawa Barat,Gula Pasir,2024-05,18735.19,18094.23,3.54,Fluktuasi Normal,18166.26
+Jawa Barat,Gula Pasir,2024-06,18560.0,18735.19,-0.94,Fluktuasi Normal,18463.14
+Jawa Barat,Gula Pasir,2024-07,18306.45,18560.0,-1.37,Fluktuasi Normal,18533.88
+Jawa Barat,Gula Pasir,2024-08,18260.34,18306.45,-0.25,Fluktuasi Normal,18375.6
+Jawa Barat,Gula Pasir,2024-09,18258.33,18260.34,-0.01,Fluktuasi Normal,18275.04
+Jawa Barat,Gula Pasir,2024-10,18337.1,18258.33,0.43,Fluktuasi Normal,18285.26
+Jawa Barat,Gula Pasir,2024-11,18366.67,18337.1,0.16,Fluktuasi Normal,18320.7
+Jawa Barat,Gula Pasir,2024-12,18408.06,18366.67,0.23,Fluktuasi Normal,18370.61
+Jawa Barat,Gula Pasir,2025-01,18596.3,18408.06,1.02,Fluktuasi Normal,18457.01
+Jawa Barat,Gula Pasir,2025-02,18732.14,18596.3,0.73,Fluktuasi Normal,18578.83
+Jawa Barat,Gula Pasir,2025-03,18755.0,18732.14,0.12,Fluktuasi Normal,18694.48
+Jawa Barat,Gula Pasir,2025-04,18750.0,18755.0,-0.03,Fluktuasi Normal,18745.71
+Jawa Barat,Gula Pasir,2025-05,18732.14,18750.0,-0.1,Fluktuasi Normal,18745.71
+Jawa Barat,Gula Pasir,2025-06,18666.67,18732.14,-0.35,Fluktuasi Normal,18716.27
+Jawa Barat,Gula Pasir,2025-07,18579.03,18666.67,-0.47,Fluktuasi Normal,18659.28
+Jawa Barat,Gula Pasir,2025-08,18450.0,18579.03,-0.69,Fluktuasi Normal,18565.23
+Jawa Barat,Gula Pasir,2025-09,18403.33,18450.0,-0.25,Fluktuasi Normal,18477.45
+Jawa Barat,Gula Pasir,2025-10,18350.0,18403.33,-0.29,Fluktuasi Normal,18401.11
+Jawa Barat,Gula Pasir,2025-11,18373.33,18350.0,0.13,Fluktuasi Normal,18375.55
+Jawa Barat,Gula Pasir,2025-12,18372.41,18373.33,-0.01,Fluktuasi Normal,18365.25
+Jawa Barat,Gula Pasir,2026-01,18381.03,18372.41,0.05,Fluktuasi Normal,18375.59
+Jawa Barat,Gula Pasir,2026-02,18495.83,18381.03,0.62,Fluktuasi Normal,18416.42
+Jawa Barat,Minyak Goreng,2022-01,19976.79,,,Data Awal (Baseline),19976.79
+Jawa Barat,Minyak Goreng,2022-02,18588.0,19976.79,-6.95,Fluktuasi Normal,19282.4
+Jawa Barat,Minyak Goreng,2022-03,19794.64,18588.0,6.49,Fluktuasi Normal,19453.14
+Jawa Barat,Minyak Goreng,2022-04,24119.57,19794.64,21.85,Lonjakan Ekstrem (Inflasi Tinggi),20834.07
+Jawa Barat,Minyak Goreng,2022-05,22940.0,24119.57,-4.89,Fluktuasi Normal,22284.74
+Jawa Barat,Minyak Goreng,2022-06,21580.77,22940.0,-5.93,Fluktuasi Normal,22880.11
+Jawa Barat,Minyak Goreng,2022-07,20268.52,21580.77,-6.08,Fluktuasi Normal,21596.43
+Jawa Barat,Minyak Goreng,2022-08,18526.79,20268.52,-8.59,Fluktuasi Normal,20125.36
+Jawa Barat,Minyak Goreng,2022-09,17784.62,18526.79,-4.01,Fluktuasi Normal,18859.98
+Jawa Barat,Minyak Goreng,2022-10,17856.9,17784.62,0.41,Fluktuasi Normal,18056.1
+Jawa Barat,Minyak Goreng,2022-11,18110.0,17856.9,1.42,Fluktuasi Normal,17917.17
+Jawa Barat,Minyak Goreng,2022-12,18432.76,18110.0,1.78,Fluktuasi Normal,18133.22
+Jawa Barat,Minyak Goreng,2023-01,18443.55,18432.76,0.06,Fluktuasi Normal,18328.77
+Jawa Barat,Minyak Goreng,2023-02,18431.25,18443.55,-0.07,Fluktuasi Normal,18435.85
+Jawa Barat,Minyak Goreng,2023-03,18275.0,18431.25,-0.85,Fluktuasi Normal,18383.27
+Jawa Barat,Minyak Goreng,2023-04,18275.93,18275.0,0.01,Fluktuasi Normal,18327.39
+Jawa Barat,Minyak Goreng,2023-05,18303.45,18275.93,0.15,Fluktuasi Normal,18284.79
+Jawa Barat,Minyak Goreng,2023-06,18286.0,18303.45,-0.1,Fluktuasi Normal,18288.46
+Jawa Barat,Minyak Goreng,2023-07,18167.24,18286.0,-0.65,Fluktuasi Normal,18252.23
+Jawa Barat,Minyak Goreng,2023-08,18051.85,18167.24,-0.64,Fluktuasi Normal,18168.36
+Jawa Barat,Minyak Goreng,2023-09,18023.08,18051.85,-0.16,Fluktuasi Normal,18080.72
+Jawa Barat,Minyak Goreng,2023-10,17951.61,18023.08,-0.4,Fluktuasi Normal,18008.85
+Jawa Barat,Minyak Goreng,2023-11,17905.77,17951.61,-0.26,Fluktuasi Normal,17960.15
+Jawa Barat,Minyak Goreng,2023-12,17870.69,17905.77,-0.2,Fluktuasi Normal,17909.36
+Jawa Barat,Minyak Goreng,2024-01,17967.74,17870.69,0.54,Fluktuasi Normal,17914.73
+Jawa Barat,Minyak Goreng,2024-02,18275.0,17967.74,1.71,Fluktuasi Normal,18037.81
+Jawa Barat,Minyak Goreng,2024-03,18419.35,18275.0,0.79,Fluktuasi Normal,18220.7
+Jawa Barat,Minyak Goreng,2024-04,18575.0,18419.35,0.85,Fluktuasi Normal,18423.12
+Jawa Barat,Minyak Goreng,2024-05,18514.81,18575.0,-0.32,Fluktuasi Normal,18503.05
+Jawa Barat,Minyak Goreng,2024-06,18490.0,18514.81,-0.13,Fluktuasi Normal,18526.6
+Jawa Barat,Minyak Goreng,2024-07,18541.94,18490.0,0.28,Fluktuasi Normal,18515.58
+Jawa Barat,Minyak Goreng,2024-08,18641.38,18541.94,0.54,Fluktuasi Normal,18557.77
+Jawa Barat,Minyak Goreng,2024-09,18725.0,18641.38,0.45,Fluktuasi Normal,18636.11
+Jawa Barat,Minyak Goreng,2024-10,18922.58,18725.0,1.06,Fluktuasi Normal,18762.99
+Jawa Barat,Minyak Goreng,2024-11,19615.0,18922.58,3.66,Fluktuasi Normal,19087.53
+Jawa Barat,Minyak Goreng,2024-12,20435.48,19615.0,4.18,Fluktuasi Normal,19657.69
+Jawa Barat,Minyak Goreng,2025-01,20892.59,20435.48,2.24,Fluktuasi Normal,20314.36
+Jawa Barat,Minyak Goreng,2025-02,20896.43,20892.59,0.02,Fluktuasi Normal,20741.5
+Jawa Barat,Minyak Goreng,2025-03,20963.33,20896.43,0.32,Fluktuasi Normal,20917.45
+Jawa Barat,Minyak Goreng,2025-04,20912.07,20963.33,-0.24,Fluktuasi Normal,20923.94
+Jawa Barat,Minyak Goreng,2025-05,20717.86,20912.07,-0.93,Fluktuasi Normal,20864.42
+Jawa Barat,Minyak Goreng,2025-06,20501.67,20717.86,-1.04,Fluktuasi Normal,20710.53
+Jawa Barat,Minyak Goreng,2025-07,20516.13,20501.67,0.07,Fluktuasi Normal,20578.55
+Jawa Barat,Minyak Goreng,2025-08,20612.9,20516.13,0.47,Fluktuasi Normal,20543.57
+Jawa Barat,Minyak Goreng,2025-09,20801.67,20612.9,0.92,Fluktuasi Normal,20643.57
+Jawa Barat,Minyak Goreng,2025-10,20800.0,20801.67,-0.01,Fluktuasi Normal,20738.19
+Jawa Barat,Minyak Goreng,2025-11,20783.33,20800.0,-0.08,Fluktuasi Normal,20795.0
+Jawa Barat,Minyak Goreng,2025-12,20803.45,20783.33,0.1,Fluktuasi Normal,20795.59
+Jawa Barat,Minyak Goreng,2026-01,20803.45,20803.45,0.0,Fluktuasi Normal,20796.74
+Jawa Barat,Minyak Goreng,2026-02,21091.67,20803.45,1.39,Fluktuasi Normal,20899.52
+Jawa Barat,Telur Ayam,2022-01,24301.79,,,Data Awal (Baseline),24301.79
+Jawa Barat,Telur Ayam,2022-02,20762.0,24301.79,-14.57,Penurunan Signifikan (Deflasi),22531.9
+Jawa Barat,Telur Ayam,2022-03,24200.0,20762.0,16.56,Lonjakan Ekstrem (Inflasi Tinggi),23087.93
+Jawa Barat,Telur Ayam,2022-04,24886.96,24200.0,2.84,Fluktuasi Normal,23282.99
+Jawa Barat,Telur Ayam,2022-05,27285.0,24886.96,9.64,Fluktuasi Normal,25457.32
+Jawa Barat,Telur Ayam,2022-06,28442.31,27285.0,4.24,Fluktuasi Normal,26871.42
+Jawa Barat,Telur Ayam,2022-07,27874.07,28442.31,-2.0,Fluktuasi Normal,27867.13
+Jawa Barat,Telur Ayam,2022-08,29375.0,27874.07,5.38,Fluktuasi Normal,28563.79
+Jawa Barat,Telur Ayam,2022-09,27734.62,29375.0,-5.58,Fluktuasi Normal,28327.9
+Jawa Barat,Telur Ayam,2022-10,25893.1,27734.62,-6.64,Fluktuasi Normal,27667.57
+Jawa Barat,Telur Ayam,2022-11,28046.67,25893.1,8.32,Fluktuasi Normal,27224.8
+Jawa Barat,Telur Ayam,2022-12,30360.34,28046.67,8.25,Fluktuasi Normal,28100.04
+Jawa Barat,Telur Ayam,2023-01,28100.0,30360.34,-7.45,Fluktuasi Normal,28835.67
+Jawa Barat,Telur Ayam,2023-02,27497.92,28100.0,-2.14,Fluktuasi Normal,28652.75
+Jawa Barat,Telur Ayam,2023-03,28662.5,27497.92,4.24,Fluktuasi Normal,28086.81
+Jawa Barat,Telur Ayam,2023-04,28198.15,28662.5,-1.62,Fluktuasi Normal,28119.52
+Jawa Barat,Telur Ayam,2023-05,30710.34,28198.15,8.91,Fluktuasi Normal,29190.33
+Jawa Barat,Telur Ayam,2023-06,30900.0,30710.34,0.62,Fluktuasi Normal,29936.16
+Jawa Barat,Telur Ayam,2023-07,31510.34,30900.0,1.98,Fluktuasi Normal,31040.23
+Jawa Barat,Telur Ayam,2023-08,29979.63,31510.34,-4.86,Fluktuasi Normal,30796.66
+Jawa Barat,Telur Ayam,2023-09,27094.23,29979.63,-9.62,Fluktuasi Normal,29528.07
+Jawa Barat,Telur Ayam,2023-10,26062.9,27094.23,-3.81,Fluktuasi Normal,27712.25
+Jawa Barat,Telur Ayam,2023-11,27388.46,26062.9,5.09,Fluktuasi Normal,26848.53
+Jawa Barat,Telur Ayam,2023-12,27470.69,27388.46,0.3,Fluktuasi Normal,26974.02
+Jawa Barat,Telur Ayam,2024-01,26751.61,27470.69,-2.62,Fluktuasi Normal,27203.59
+Jawa Barat,Telur Ayam,2024-02,28526.79,26751.61,6.64,Fluktuasi Normal,27583.03
+Jawa Barat,Telur Ayam,2024-03,31501.61,28526.79,10.43,Lonjakan Ekstrem (Inflasi Tinggi),28926.67
+Jawa Barat,Telur Ayam,2024-04,28607.69,31501.61,-9.19,Fluktuasi Normal,29545.36
+Jawa Barat,Telur Ayam,2024-05,29883.33,28607.69,4.46,Fluktuasi Normal,29997.54
+Jawa Barat,Telur Ayam,2024-06,28466.67,29883.33,-4.74,Fluktuasi Normal,28985.9
+Jawa Barat,Telur Ayam,2024-07,27953.23,28466.67,-1.8,Fluktuasi Normal,28767.74
+Jawa Barat,Telur Ayam,2024-08,27131.03,27953.23,-2.94,Fluktuasi Normal,27850.31
+Jawa Barat,Telur Ayam,2024-09,26386.67,27131.03,-2.74,Fluktuasi Normal,27156.98
+Jawa Barat,Telur Ayam,2024-10,26719.35,26386.67,1.26,Fluktuasi Normal,26745.68
+Jawa Barat,Telur Ayam,2024-11,26418.33,26719.35,-1.13,Fluktuasi Normal,26508.12
+Jawa Barat,Telur Ayam,2024-12,29590.32,26418.33,12.01,Lonjakan Ekstrem (Inflasi Tinggi),27576.0
+Jawa Barat,Telur Ayam,2025-01,28701.85,29590.32,-3.0,Fluktuasi Normal,28236.83
+Jawa Barat,Telur Ayam,2025-02,28433.93,28701.85,-0.93,Fluktuasi Normal,28908.7
+Jawa Barat,Telur Ayam,2025-03,28940.0,28433.93,1.78,Fluktuasi Normal,28691.93
+Jawa Barat,Telur Ayam,2025-04,27275.86,28940.0,-5.75,Fluktuasi Normal,28216.6
+Jawa Barat,Telur Ayam,2025-05,27587.5,27275.86,1.14,Fluktuasi Normal,27934.45
+Jawa Barat,Telur Ayam,2025-06,28023.33,27587.5,1.58,Fluktuasi Normal,27628.9
+Jawa Barat,Telur Ayam,2025-07,29093.55,28023.33,3.82,Fluktuasi Normal,28234.79
+Jawa Barat,Telur Ayam,2025-08,28158.06,29093.55,-3.22,Fluktuasi Normal,28424.98
+Jawa Barat,Telur Ayam,2025-09,28555.0,28158.06,1.41,Fluktuasi Normal,28602.2
+Jawa Barat,Telur Ayam,2025-10,30453.7,28555.0,6.65,Fluktuasi Normal,29055.59
+Jawa Barat,Telur Ayam,2025-11,29703.33,30453.7,-2.46,Fluktuasi Normal,29570.68
+Jawa Barat,Telur Ayam,2025-12,30679.31,29703.33,3.29,Fluktuasi Normal,30278.78
+Jawa Barat,Telur Ayam,2026-01,29393.1,30679.31,-4.19,Fluktuasi Normal,29925.25
+Jawa Barat,Telur Ayam,2026-02,29420.83,29393.1,0.09,Fluktuasi Normal,29831.08
